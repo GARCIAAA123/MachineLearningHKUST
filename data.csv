@@ -1,0 +1,892 @@
+c1,c2,c3,c4,c5,c6,c7,c8,c9,reg_target,class_target
+male,22.0,1,0,A/5 21171,,S,Lower Class,"Braund, Mr. Owen Harris",7.25,0
+female,38.0,1,0,PC 17599,C85,C,Upper Class,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",71.2833,1
+female,26.0,0,0,STON/O2. 3101282,,S,Lower Class,"Heikkinen, Miss. Laina",7.925,1
+female,35.0,1,0,113803,C123,S,Upper Class,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",53.1,1
+male,35.0,0,0,373450,,S,Lower Class,"Allen, Mr. William Henry",8.05,0
+male,,0,0,330877,,Q,Lower Class,"Moran, Mr. James",8.4583,0
+male,54.0,0,0,17463,E46,S,Upper Class,"McCarthy, Mr. Timothy J",51.8625,0
+male,2.0,3,1,349909,,S,Lower Class,"Palsson, Master. Gosta Leonard",21.075,0
+female,27.0,0,2,347742,,S,Lower Class,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",11.1333,1
+female,14.0,1,0,237736,,C,Middle Class,"Nasser, Mrs. Nicholas (Adele Achem)",30.0708,1
+female,4.0,1,1,PP 9549,G6,S,Lower Class,"Sandstrom, Miss. Marguerite Rut",16.7,1
+female,58.0,0,0,113783,C103,S,Upper Class,"Bonnell, Miss. Elizabeth",26.55,1
+male,20.0,0,0,A/5. 2151,,S,Lower Class,"Saundercock, Mr. William Henry",8.05,0
+male,39.0,1,5,347082,,S,Lower Class,"Andersson, Mr. Anders Johan",31.275,0
+female,14.0,0,0,350406,,S,Lower Class,"Vestrom, Miss. Hulda Amanda Adolfina",7.8542,0
+female,55.0,0,0,248706,,S,Middle Class,"Hewlett, Mrs. (Mary D Kingcome) ",16.0,1
+male,2.0,4,1,382652,,Q,Lower Class,"Rice, Master. Eugene",29.125,0
+male,,0,0,244373,,S,Middle Class,"Williams, Mr. Charles Eugene",13.0,1
+female,31.0,1,0,345763,,S,Lower Class,"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",18.0,0
+female,,0,0,2649,,C,Lower Class,"Masselmani, Mrs. Fatima",7.225,1
+male,35.0,0,0,239865,,S,Middle Class,"Fynney, Mr. Joseph J",26.0,0
+male,34.0,0,0,248698,D56,S,Middle Class,"Beesley, Mr. Lawrence",13.0,1
+female,15.0,0,0,330923,,Q,Lower Class,"McGowan, Miss. Anna ""Annie""",8.0292,1
+male,28.0,0,0,113788,A6,S,Upper Class,"Sloper, Mr. William Thompson",35.5,1
+female,8.0,3,1,349909,,S,Lower Class,"Palsson, Miss. Torborg Danira",21.075,0
+female,38.0,1,5,347077,,S,Lower Class,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",31.3875,1
+male,,0,0,2631,,C,Lower Class,"Emir, Mr. Farred Chehab",7.225,0
+male,19.0,3,2,19950,C23 C25 C27,S,Upper Class,"Fortune, Mr. Charles Alexander",263.0,0
+female,,0,0,330959,,Q,Lower Class,"O'Dwyer, Miss. Ellen ""Nellie""",7.8792,1
+male,,0,0,349216,,S,Lower Class,"Todoroff, Mr. Lalio",7.8958,0
+male,40.0,0,0,PC 17601,,C,Upper Class,"Uruchurtu, Don. Manuel E",27.7208,0
+female,,1,0,PC 17569,B78,C,Upper Class,"Spencer, Mrs. William Augustus (Marie Eugenie)",146.5208,1
+female,,0,0,335677,,Q,Lower Class,"Glynn, Miss. Mary Agatha",7.75,1
+male,66.0,0,0,C.A. 24579,,S,Middle Class,"Wheadon, Mr. Edward H",10.5,0
+male,28.0,1,0,PC 17604,,C,Upper Class,"Meyer, Mr. Edgar Joseph",82.1708,0
+male,42.0,1,0,113789,,S,Upper Class,"Holverson, Mr. Alexander Oskar",52.0,0
+male,,0,0,2677,,C,Lower Class,"Mamee, Mr. Hanna",7.2292,1
+male,21.0,0,0,A./5. 2152,,S,Lower Class,"Cann, Mr. Ernest Charles",8.05,0
+female,18.0,2,0,345764,,S,Lower Class,"Vander Planke, Miss. Augusta Maria",18.0,0
+female,14.0,1,0,2651,,C,Lower Class,"Nicola-Yarred, Miss. Jamila",11.2417,1
+female,40.0,1,0,7546,,S,Lower Class,"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",9.475,0
+female,27.0,1,0,11668,,S,Middle Class,"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)",21.0,0
+male,,0,0,349253,,C,Lower Class,"Kraeff, Mr. Theodor",7.8958,0
+female,3.0,1,2,SC/Paris 2123,,C,Middle Class,"Laroche, Miss. Simonne Marie Anne Andree",41.5792,1
+female,19.0,0,0,330958,,Q,Lower Class,"Devaney, Miss. Margaret Delia",7.8792,1
+male,,0,0,S.C./A.4. 23567,,S,Lower Class,"Rogers, Mr. William John",8.05,0
+male,,1,0,370371,,Q,Lower Class,"Lennon, Mr. Denis",15.5,0
+female,,0,0,14311,,Q,Lower Class,"O'Driscoll, Miss. Bridget",7.75,1
+male,,2,0,2662,,C,Lower Class,"Samaan, Mr. Youssef",21.6792,0
+female,18.0,1,0,349237,,S,Lower Class,"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",17.8,0
+male,7.0,4,1,3101295,,S,Lower Class,"Panula, Master. Juha Niilo",39.6875,0
+male,21.0,0,0,A/4. 39886,,S,Lower Class,"Nosworthy, Mr. Richard Cater",7.8,0
+female,49.0,1,0,PC 17572,D33,C,Upper Class,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",76.7292,1
+female,29.0,1,0,2926,,S,Middle Class,"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",26.0,1
+male,65.0,0,1,113509,B30,C,Upper Class,"Ostby, Mr. Engelhart Cornelius",61.9792,0
+male,,0,0,19947,C52,S,Upper Class,"Woolner, Mr. Hugh",35.5,1
+female,21.0,0,0,C.A. 31026,,S,Middle Class,"Rugg, Miss. Emily",10.5,1
+male,28.5,0,0,2697,,C,Lower Class,"Novel, Mr. Mansouer",7.2292,0
+female,5.0,1,2,C.A. 34651,,S,Middle Class,"West, Miss. Constance Mirium",27.75,1
+male,11.0,5,2,CA 2144,,S,Lower Class,"Goodwin, Master. William Frederick",46.9,0
+male,22.0,0,0,2669,,C,Lower Class,"Sirayanian, Mr. Orsen",7.2292,0
+female,38.0,0,0,113572,B28,,Upper Class,"Icard, Miss. Amelie",80.0,1
+male,45.0,1,0,36973,C83,S,Upper Class,"Harris, Mr. Henry Birkhardt",83.475,0
+male,4.0,3,2,347088,,S,Lower Class,"Skoog, Master. Harald",27.9,0
+male,,0,0,PC 17605,,C,Upper Class,"Stewart, Mr. Albert A",27.7208,0
+male,,1,1,2661,,C,Lower Class,"Moubarek, Master. Gerios",15.2458,1
+female,29.0,0,0,C.A. 29395,F33,S,Middle Class,"Nye, Mrs. (Elizabeth Ramell)",10.5,1
+male,19.0,0,0,S.P. 3464,,S,Lower Class,"Crease, Mr. Ernest James",8.1583,0
+female,17.0,4,2,3101281,,S,Lower Class,"Andersson, Miss. Erna Alexandra",7.925,1
+male,26.0,2,0,315151,,S,Lower Class,"Kink, Mr. Vincenz",8.6625,0
+male,32.0,0,0,C.A. 33111,,S,Middle Class,"Jenkin, Mr. Stephen Curnow",10.5,0
+female,16.0,5,2,CA 2144,,S,Lower Class,"Goodwin, Miss. Lillian Amy",46.9,0
+male,21.0,0,0,S.O.C. 14879,,S,Middle Class,"Hood, Mr. Ambrose Jr",73.5,0
+male,26.0,1,0,2680,,C,Lower Class,"Chronopoulos, Mr. Apostolos",14.4542,0
+male,32.0,0,0,1601,,S,Lower Class,"Bing, Mr. Lee",56.4958,1
+male,25.0,0,0,348123,F G73,S,Lower Class,"Moen, Mr. Sigurd Hansen",7.65,0
+male,,0,0,349208,,S,Lower Class,"Staneff, Mr. Ivan",7.8958,0
+male,,0,0,374746,,S,Lower Class,"Moutal, Mr. Rahamin Haim",8.05,0
+male,0.83,0,2,248738,,S,Middle Class,"Caldwell, Master. Alden Gates",29.0,1
+female,30.0,0,0,364516,,S,Lower Class,"Dowdell, Miss. Elizabeth",12.475,1
+male,22.0,0,0,345767,,S,Lower Class,"Waelens, Mr. Achille",9.0,0
+male,29.0,0,0,345779,,S,Lower Class,"Sheerlinck, Mr. Jan Baptist",9.5,1
+female,,0,0,330932,,Q,Lower Class,"McDermott, Miss. Brigdet Delia",7.7875,1
+male,28.0,0,0,113059,,S,Upper Class,"Carrau, Mr. Francisco M",47.1,0
+female,17.0,0,0,SO/C 14885,,S,Middle Class,"Ilett, Miss. Bertha",10.5,1
+female,33.0,3,0,3101278,,S,Lower Class,"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",15.85,1
+male,16.0,1,3,W./C. 6608,,S,Lower Class,"Ford, Mr. William Neal",34.375,0
+male,,0,0,SOTON/OQ 392086,,S,Lower Class,"Slocovski, Mr. Selman Francis",8.05,0
+female,23.0,3,2,19950,C23 C25 C27,S,Upper Class,"Fortune, Miss. Mabel Helen",263.0,1
+male,24.0,0,0,343275,,S,Lower Class,"Celotti, Mr. Francesco",8.05,0
+male,29.0,0,0,343276,,S,Lower Class,"Christmann, Mr. Emil",8.05,0
+male,20.0,0,0,347466,,S,Lower Class,"Andreasson, Mr. Paul Edvin",7.8542,0
+male,46.0,1,0,W.E.P. 5734,E31,S,Upper Class,"Chaffee, Mr. Herbert Fuller",61.175,0
+male,26.0,1,2,C.A. 2315,,S,Lower Class,"Dean, Mr. Bertram Frank",20.575,0
+male,59.0,0,0,364500,,S,Lower Class,"Coxon, Mr. Daniel",7.25,0
+male,,0,0,374910,,S,Lower Class,"Shorney, Mr. Charles Joseph",8.05,0
+male,71.0,0,0,PC 17754,A5,C,Upper Class,"Goldschmidt, Mr. George B",34.6542,0
+male,23.0,0,1,PC 17759,D10 D12,C,Upper Class,"Greenfield, Mr. William Bertram",63.3583,1
+female,34.0,0,1,231919,,S,Middle Class,"Doling, Mrs. John T (Ada Julia Bone)",23.0,1
+male,34.0,1,0,244367,,S,Middle Class,"Kantor, Mr. Sinai",26.0,0
+female,28.0,0,0,349245,,S,Lower Class,"Petranec, Miss. Matilda",7.8958,0
+male,,0,0,349215,,S,Lower Class,"Petroff, Mr. Pastcho (""Pentcho"")",7.8958,0
+male,21.0,0,1,35281,D26,S,Upper Class,"White, Mr. Richard Frasar",77.2875,0
+male,33.0,0,0,7540,,S,Lower Class,"Johansson, Mr. Gustaf Joel",8.6542,0
+male,37.0,2,0,3101276,,S,Lower Class,"Gustafsson, Mr. Anders Vilhelm",7.925,0
+male,28.0,0,0,349207,,S,Lower Class,"Mionoff, Mr. Stoytcho",7.8958,0
+female,21.0,0,0,343120,,S,Lower Class,"Salkjelsvik, Miss. Anna Kristine",7.65,1
+male,,0,0,312991,,S,Lower Class,"Moss, Mr. Albert Johan",7.775,1
+male,38.0,0,0,349249,,S,Lower Class,"Rekic, Mr. Tido",7.8958,0
+female,,1,0,371110,,Q,Lower Class,"Moran, Miss. Bertha",24.15,1
+male,47.0,0,0,110465,C110,S,Upper Class,"Porter, Mr. Walter Chamberlain",52.0,0
+female,14.5,1,0,2665,,C,Lower Class,"Zabour, Miss. Hileni",14.4542,0
+male,22.0,0,0,324669,,S,Lower Class,"Barton, Mr. David John",8.05,0
+female,20.0,1,0,4136,,S,Lower Class,"Jussila, Miss. Katriina",9.825,0
+female,17.0,0,0,2627,,C,Lower Class,"Attalah, Miss. Malake",14.4583,0
+male,21.0,0,0,STON/O 2. 3101294,,S,Lower Class,"Pekoniemi, Mr. Edvard",7.925,0
+male,70.5,0,0,370369,,Q,Lower Class,"Connors, Mr. Patrick",7.75,0
+male,29.0,1,0,11668,,S,Middle Class,"Turpin, Mr. William John Robert",21.0,0
+male,24.0,0,1,PC 17558,B58 B60,C,Upper Class,"Baxter, Mr. Quigg Edmond",247.5208,0
+female,2.0,4,2,347082,,S,Lower Class,"Andersson, Miss. Ellis Anna Maria",31.275,0
+male,21.0,2,0,S.O.C. 14879,,S,Middle Class,"Hickman, Mr. Stanley George",73.5,0
+male,,0,0,A4. 54510,,S,Lower Class,"Moore, Mr. Leonard Charles",8.05,0
+male,32.5,1,0,237736,,C,Middle Class,"Nasser, Mr. Nicholas",30.0708,0
+female,32.5,0,0,27267,E101,S,Middle Class,"Webber, Miss. Susan",13.0,1
+male,54.0,0,1,35281,D26,S,Upper Class,"White, Mr. Percival Wayland",77.2875,0
+male,12.0,1,0,2651,,C,Lower Class,"Nicola-Yarred, Master. Elias",11.2417,1
+male,,0,0,370372,,Q,Lower Class,"McMahon, Mr. Martin",7.75,0
+male,24.0,0,0,C 17369,,S,Lower Class,"Madsen, Mr. Fridtjof Arne",7.1417,1
+female,,1,1,2668,F E69,C,Lower Class,"Peter, Miss. Anna",22.3583,1
+male,45.0,0,0,347061,,S,Lower Class,"Ekstrom, Mr. Johan",6.975,0
+male,33.0,0,0,349241,,C,Lower Class,"Drazenoic, Mr. Jozef",7.8958,0
+male,20.0,0,0,SOTON/O.Q. 3101307,,S,Lower Class,"Coelho, Mr. Domingos Fernandeo",7.05,0
+female,47.0,1,0,A/5. 3337,,S,Lower Class,"Robins, Mrs. Alexander A (Grace Charity Laury)",14.5,0
+female,29.0,1,0,228414,,S,Middle Class,"Weisz, Mrs. Leopold (Mathilde Francoise Pede)",26.0,1
+male,25.0,0,0,C.A. 29178,,S,Middle Class,"Sobey, Mr. Samuel James Hayden",13.0,0
+male,23.0,0,0,SC/PARIS 2133,,C,Middle Class,"Richard, Mr. Emile",15.0458,0
+female,19.0,0,2,11752,D47,S,Upper Class,"Newsom, Miss. Helen Monypeny",26.2833,1
+male,37.0,1,0,113803,C123,S,Upper Class,"Futrelle, Mr. Jacques Heath",53.1,0
+male,16.0,0,0,7534,,S,Lower Class,"Osen, Mr. Olaf Elon",9.2167,0
+male,24.0,0,0,PC 17593,B86,C,Upper Class,"Giglio, Mr. Victor",79.2,0
+female,,0,2,2678,,C,Lower Class,"Boulos, Mrs. Joseph (Sultana)",15.2458,0
+female,22.0,0,0,347081,,S,Lower Class,"Nysten, Miss. Anna Sofia",7.75,1
+female,24.0,1,0,STON/O2. 3101279,,S,Lower Class,"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)",15.85,1
+male,19.0,0,0,365222,,Q,Lower Class,"Burke, Mr. Jeremiah",6.75,0
+male,18.0,0,0,231945,,S,Middle Class,"Andrew, Mr. Edgardo Samuel",11.5,0
+male,19.0,1,1,C.A. 33112,,S,Middle Class,"Nicholls, Mr. Joseph Charles",36.75,0
+male,27.0,0,0,350043,,S,Lower Class,"Andersson, Mr. August Edvard (""Wennerstrom"")",7.7958,1
+female,9.0,2,2,W./C. 6608,,S,Lower Class,"Ford, Miss. Robina Maggie ""Ruby""",34.375,0
+male,36.5,0,2,230080,F2,S,Middle Class,"Navratil, Mr. Michel (""Louis M Hoffman"")",26.0,0
+male,42.0,0,0,244310,,S,Middle Class,"Byles, Rev. Thomas Roussel Davids",13.0,0
+male,51.0,0,0,S.O.P. 1166,,S,Middle Class,"Bateman, Rev. Robert James",12.525,0
+female,22.0,1,0,113776,C2,S,Upper Class,"Pears, Mrs. Thomas (Edith Wearne)",66.6,1
+male,55.5,0,0,A.5. 11206,,S,Lower Class,"Meo, Mr. Alfonzo",8.05,0
+male,40.5,0,2,A/5. 851,,S,Lower Class,"van Billiard, Mr. Austin Blyler",14.5,0
+male,,0,0,Fa 265302,,S,Lower Class,"Olsen, Mr. Ole Martin",7.3125,0
+male,51.0,0,1,PC 17597,,C,Upper Class,"Williams, Mr. Charles Duane",61.3792,0
+female,16.0,0,0,35851,,Q,Lower Class,"Gilnagh, Miss. Katherine ""Katie""",7.7333,1
+male,30.0,0,0,SOTON/OQ 392090,,S,Lower Class,"Corn, Mr. Harry",8.05,0
+male,,0,0,315037,,S,Lower Class,"Smiljanic, Mr. Mile",8.6625,0
+male,,8,2,CA. 2343,,S,Lower Class,"Sage, Master. Thomas Henry",69.55,0
+male,44.0,0,1,371362,,S,Lower Class,"Cribb, Mr. John Hatfield",16.1,0
+female,40.0,0,0,C.A. 33595,,S,Middle Class,"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",15.75,1
+male,26.0,0,0,347068,,S,Lower Class,"Bengtsson, Mr. John Viktor",7.775,0
+male,17.0,0,0,315093,,S,Lower Class,"Calic, Mr. Jovo",8.6625,0
+male,1.0,4,1,3101295,,S,Lower Class,"Panula, Master. Eino Viljami",39.6875,0
+male,9.0,0,2,363291,,S,Lower Class,"Goldsmith, Master. Frank John William ""Frankie""",20.525,1
+female,,0,1,113505,E33,S,Upper Class,"Chibnall, Mrs. (Edith Martha Bowerman)",55.0,1
+female,45.0,1,4,347088,,S,Lower Class,"Skoog, Mrs. William (Anna Bernhardina Karlsson)",27.9,0
+male,,0,0,PC 17318,,S,Upper Class,"Baumann, Mr. John D",25.925,0
+male,28.0,0,0,1601,,S,Lower Class,"Ling, Mr. Lee",56.4958,0
+male,61.0,0,0,111240,B19,S,Upper Class,"Van der hoef, Mr. Wyckoff",33.5,0
+male,4.0,4,1,382652,,Q,Lower Class,"Rice, Master. Arthur",29.125,0
+female,1.0,1,1,347742,,S,Lower Class,"Johnson, Miss. Eleanor Ileen",11.1333,1
+male,21.0,0,0,STON/O 2. 3101280,,S,Lower Class,"Sivola, Mr. Antti Wilhelm",7.925,0
+male,56.0,0,0,17764,A7,C,Upper Class,"Smith, Mr. James Clinch",30.6958,0
+male,18.0,1,1,350404,,S,Lower Class,"Klasen, Mr. Klas Albin",7.8542,0
+male,,3,1,4133,,S,Lower Class,"Lefebre, Master. Henry Forbes",25.4667,0
+female,50.0,0,0,PC 17595,C49,C,Upper Class,"Isham, Miss. Ann Elizabeth",28.7125,0
+male,30.0,0,0,250653,,S,Middle Class,"Hale, Mr. Reginald",13.0,0
+male,36.0,0,0,LINE,,S,Lower Class,"Leonard, Mr. Lionel",0.0,0
+female,,8,2,CA. 2343,,S,Lower Class,"Sage, Miss. Constance Gladys",69.55,0
+male,,0,0,SC/PARIS 2131,,C,Middle Class,"Pernot, Mr. Rene",15.05,0
+male,9.0,4,2,347077,,S,Lower Class,"Asplund, Master. Clarence Gustaf Hugo",31.3875,0
+male,1.0,2,1,230136,F4,S,Middle Class,"Becker, Master. Richard F",39.0,1
+female,4.0,0,2,315153,,S,Lower Class,"Kink-Heilmann, Miss. Luise Gretchen",22.025,1
+male,,0,0,113767,A32,S,Upper Class,"Rood, Mr. Hugh Roscoe",50.0,0
+female,,1,0,370365,,Q,Lower Class,"O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey)",15.5,1
+male,45.0,0,0,111428,,S,Upper Class,"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")",26.55,1
+male,40.0,1,1,364849,,Q,Lower Class,"Bourke, Mr. John",15.5,0
+male,36.0,0,0,349247,,S,Lower Class,"Turcin, Mr. Stjepan",7.8958,0
+female,32.0,0,0,234604,,S,Middle Class,"Pinsky, Mrs. (Rosa)",13.0,1
+male,19.0,0,0,28424,,S,Middle Class,"Carbines, Mr. William",13.0,0
+female,19.0,1,0,350046,,S,Lower Class,"Andersen-Jensen, Miss. Carla Christine Nielsine",7.8542,1
+male,3.0,1,1,230080,F2,S,Middle Class,"Navratil, Master. Michel M",26.0,1
+female,44.0,0,0,PC 17610,B4,C,Upper Class,"Brown, Mrs. James Joseph (Margaret Tobin)",27.7208,1
+female,58.0,0,0,PC 17569,B80,C,Upper Class,"Lurette, Miss. Elise",146.5208,1
+male,,0,0,368703,,Q,Lower Class,"Mernagh, Mr. Robert",7.75,0
+male,42.0,0,1,4579,,S,Lower Class,"Olsen, Mr. Karl Siegwart Andreas",8.4042,0
+female,,0,0,370370,,Q,Lower Class,"Madigan, Miss. Margaret ""Maggie""",7.75,1
+female,24.0,0,0,248747,,S,Middle Class,"Yrois, Miss. Henriette (""Mrs Harbeck"")",13.0,0
+male,28.0,0,0,345770,,S,Lower Class,"Vande Walle, Mr. Nestor Cyriel",9.5,0
+male,,8,2,CA. 2343,,S,Lower Class,"Sage, Mr. Frederick",69.55,0
+male,34.0,0,0,3101264,,S,Lower Class,"Johanson, Mr. Jakob Alfred",6.4958,0
+male,45.5,0,0,2628,,C,Lower Class,"Youseff, Mr. Gerious",7.225,0
+male,18.0,0,0,A/5 3540,,S,Lower Class,"Cohen, Mr. Gurshon ""Gus""",8.05,1
+female,2.0,0,1,347054,G6,S,Lower Class,"Strom, Miss. Telma Matilda",10.4625,0
+male,32.0,1,0,3101278,,S,Lower Class,"Backstrom, Mr. Karl Alfred",15.85,0
+male,26.0,0,0,2699,,C,Lower Class,"Albimona, Mr. Nassef Cassem",18.7875,1
+female,16.0,0,0,367231,,Q,Lower Class,"Carr, Miss. Helen ""Ellen""",7.75,1
+male,40.0,0,0,112277,A31,C,Upper Class,"Blank, Mr. Henry",31.0,1
+male,24.0,0,0,SOTON/O.Q. 3101311,,S,Lower Class,"Ali, Mr. Ahmed",7.05,0
+female,35.0,0,0,F.C.C. 13528,,S,Middle Class,"Cameron, Miss. Clear Annie",21.0,1
+male,22.0,0,0,A/5 21174,,S,Lower Class,"Perkin, Mr. John Henry",7.25,0
+male,30.0,0,0,250646,,S,Middle Class,"Givard, Mr. Hans Kristensen",13.0,0
+male,,1,0,367229,,Q,Lower Class,"Kiernan, Mr. Philip",7.75,0
+female,31.0,1,0,35273,D36,C,Upper Class,"Newell, Miss. Madeleine",113.275,1
+female,27.0,0,0,STON/O2. 3101283,,S,Lower Class,"Honkanen, Miss. Eliina",7.925,1
+male,42.0,1,0,243847,,S,Middle Class,"Jacobsohn, Mr. Sidney Samuel",27.0,0
+female,32.0,0,0,11813,D15,C,Upper Class,"Bazzani, Miss. Albina",76.2917,1
+male,30.0,0,0,W/C 14208,,S,Middle Class,"Harris, Mr. Walter",10.5,0
+male,16.0,0,0,SOTON/OQ 392089,,S,Lower Class,"Sunderland, Mr. Victor Francis",8.05,1
+male,27.0,0,0,220367,,S,Middle Class,"Bracken, Mr. James H",13.0,0
+male,51.0,0,0,21440,,S,Lower Class,"Green, Mr. George Henry",8.05,0
+male,,0,0,349234,,S,Lower Class,"Nenkoff, Mr. Christo",7.8958,0
+male,38.0,1,0,19943,C93,S,Upper Class,"Hoyt, Mr. Frederick Maxfield",90.0,1
+male,22.0,0,0,PP 4348,,S,Lower Class,"Berglund, Mr. Karl Ivar Sven",9.35,0
+male,19.0,0,0,SW/PP 751,,S,Middle Class,"Mellors, Mr. William John",10.5,1
+male,20.5,0,0,A/5 21173,,S,Lower Class,"Lovell, Mr. John Hall (""Henry"")",7.25,0
+male,18.0,0,0,236171,,S,Middle Class,"Fahlstrom, Mr. Arne Jonas",13.0,0
+female,,3,1,4133,,S,Lower Class,"Lefebre, Miss. Mathilde",25.4667,0
+female,35.0,1,0,36973,C83,S,Upper Class,"Harris, Mrs. Henry Birkhardt (Irene Wallach)",83.475,1
+male,29.0,0,0,347067,,S,Lower Class,"Larsson, Mr. Bengt Edvin",7.775,0
+male,59.0,0,0,237442,,S,Middle Class,"Sjostedt, Mr. Ernst Adolf",13.5,0
+female,5.0,4,2,347077,,S,Lower Class,"Asplund, Miss. Lillian Gertrud",31.3875,1
+male,24.0,0,0,C.A. 29566,,S,Middle Class,"Leyson, Mr. Robert William Norman",10.5,0
+female,,0,0,W./C. 6609,,S,Lower Class,"Harknett, Miss. Alice Phoebe",7.55,0
+male,44.0,1,0,26707,,S,Middle Class,"Hold, Mr. Stephen",26.0,0
+female,8.0,0,2,C.A. 31921,,S,Middle Class,"Collyer, Miss. Marjorie ""Lottie""",26.25,1
+male,19.0,0,0,28665,,S,Middle Class,"Pengelly, Mr. Frederick William",10.5,0
+male,33.0,0,0,SCO/W 1585,,S,Middle Class,"Hunt, Mr. George Henry",12.275,0
+female,,1,0,2665,,C,Lower Class,"Zabour, Miss. Thamine",14.4542,0
+female,,1,0,367230,,Q,Lower Class,"Murphy, Miss. Katherine ""Kate""",15.5,1
+male,29.0,0,0,W./C. 14263,,S,Middle Class,"Coleridge, Mr. Reginald Charles",10.5,0
+male,22.0,0,0,STON/O 2. 3101275,,S,Lower Class,"Maenpaa, Mr. Matti Alexanteri",7.125,0
+male,30.0,0,0,2694,,C,Lower Class,"Attalah, Mr. Sleiman",7.225,0
+male,44.0,2,0,19928,C78,Q,Upper Class,"Minahan, Dr. William Edward",90.0,0
+female,25.0,0,0,347071,,S,Lower Class,"Lindahl, Miss. Agda Thorilda Viktoria",7.775,0
+female,24.0,0,2,250649,,S,Middle Class,"Hamalainen, Mrs. William (Anna)",14.5,1
+male,37.0,1,1,11751,D35,S,Upper Class,"Beckwith, Mr. Richard Leonard",52.5542,1
+male,54.0,1,0,244252,,S,Middle Class,"Carter, Rev. Ernest Courtenay",26.0,0
+male,,0,0,362316,,S,Lower Class,"Reed, Mr. James George",7.25,0
+female,29.0,1,1,347054,G6,S,Lower Class,"Strom, Mrs. Wilhelm (Elna Matilda Persson)",10.4625,0
+male,62.0,0,0,113514,C87,S,Upper Class,"Stead, Mr. William Thomas",26.55,0
+male,30.0,1,0,A/5. 3336,,S,Lower Class,"Lobb, Mr. William Arthur",16.1,0
+female,41.0,0,2,370129,,S,Lower Class,"Rosblom, Mrs. Viktor (Helena Wilhelmina)",20.2125,0
+female,29.0,0,2,2650,,C,Lower Class,"Touma, Mrs. Darwis (Hanne Youssef Razi)",15.2458,1
+female,,0,0,PC 17585,,C,Upper Class,"Thorne, Mrs. Gertrude Maybelle",79.2,1
+female,30.0,0,0,110152,B77,S,Upper Class,"Cherry, Miss. Gladys",86.5,1
+female,35.0,0,0,PC 17755,,C,Upper Class,"Ward, Miss. Anna",512.3292,1
+female,50.0,0,1,230433,,S,Middle Class,"Parrish, Mrs. (Lutie Davis)",26.0,1
+male,,0,0,384461,,Q,Lower Class,"Smith, Mr. Thomas",7.75,0
+male,3.0,4,2,347077,,S,Lower Class,"Asplund, Master. Edvin Rojj Felix",31.3875,1
+male,52.0,1,1,110413,E67,S,Upper Class,"Taussig, Mr. Emil",79.65,0
+male,40.0,0,0,112059,B94,S,Upper Class,"Harrison, Mr. William",0.0,0
+female,,0,0,382649,,Q,Lower Class,"Henry, Miss. Delia",7.75,0
+male,36.0,0,0,C.A. 17248,,S,Middle Class,"Reeves, Mr. David",10.5,0
+male,16.0,4,1,3101295,,S,Lower Class,"Panula, Mr. Ernesti Arvid",39.6875,0
+male,25.0,1,0,347083,,S,Lower Class,"Persson, Mr. Ernst Ulrik",7.775,1
+female,58.0,0,1,PC 17582,C125,S,Upper Class,"Graham, Mrs. William Thompson (Edith Junkins)",153.4625,1
+female,35.0,0,0,PC 17760,C99,S,Upper Class,"Bissette, Miss. Amelia",135.6333,1
+male,,0,0,113798,,S,Upper Class,"Cairns, Mr. Alexander",31.0,0
+male,25.0,0,0,LINE,,S,Lower Class,"Tornquist, Mr. William Henry",0.0,1
+female,41.0,0,1,250644,,S,Middle Class,"Mellinger, Mrs. (Elizabeth Anne Maidment)",19.5,1
+male,37.0,0,1,PC 17596,C118,C,Upper Class,"Natsch, Mr. Charles H",29.7,0
+female,,0,0,370375,,Q,Lower Class,"Healy, Miss. Hanora ""Nora""",7.75,1
+female,63.0,1,0,13502,D7,S,Upper Class,"Andrews, Miss. Kornelia Theodosia",77.9583,1
+female,45.0,0,0,347073,,S,Lower Class,"Lindblom, Miss. Augusta Charlotta",7.75,0
+male,,0,0,239853,,S,Middle Class,"Parkes, Mr. Francis ""Frank""",0.0,0
+male,7.0,4,1,382652,,Q,Lower Class,"Rice, Master. Eric",29.125,0
+female,35.0,1,1,C.A. 2673,,S,Lower Class,"Abbott, Mrs. Stanton (Rosa Hunt)",20.25,1
+male,65.0,0,0,336439,,Q,Lower Class,"Duane, Mr. Frank",7.75,0
+male,28.0,0,0,347464,,S,Lower Class,"Olsson, Mr. Nils Johan Goransson",7.8542,0
+male,16.0,0,0,345778,,S,Lower Class,"de Pelsmaeker, Mr. Alfons",9.5,0
+male,19.0,0,0,A/5. 10482,,S,Lower Class,"Dorking, Mr. Edward Arthur",8.05,1
+male,,0,0,113056,A19,S,Upper Class,"Smith, Mr. Richard William",26.0,0
+male,33.0,0,0,349239,,C,Lower Class,"Stankovic, Mr. Ivan",8.6625,0
+male,30.0,0,0,345774,,S,Lower Class,"de Mulder, Mr. Theodore",9.5,1
+male,22.0,0,0,349206,,S,Lower Class,"Naidenoff, Mr. Penko",7.8958,0
+male,42.0,0,0,237798,,S,Middle Class,"Hosono, Mr. Masabumi",13.0,1
+female,22.0,0,0,370373,,Q,Lower Class,"Connolly, Miss. Kate",7.75,1
+female,26.0,0,0,19877,,S,Upper Class,"Barber, Miss. Ellen ""Nellie""",78.85,1
+female,19.0,1,0,11967,B49,C,Upper Class,"Bishop, Mrs. Dickinson H (Helen Walton)",91.0792,1
+male,36.0,0,0,SC/Paris 2163,D,C,Middle Class,"Levy, Mr. Rene Jacques",12.875,0
+female,24.0,0,0,349236,,S,Lower Class,"Haas, Miss. Aloisia",8.85,0
+male,24.0,0,0,349233,,S,Lower Class,"Mineff, Mr. Ivan",7.8958,0
+male,,0,0,PC 17612,,C,Upper Class,"Lewy, Mr. Ervin G",27.7208,0
+male,23.5,0,0,2693,,C,Lower Class,"Hanna, Mr. Mansour",7.2292,0
+female,2.0,1,2,113781,C22 C26,S,Upper Class,"Allison, Miss. Helen Loraine",151.55,0
+male,,0,0,19988,C106,S,Upper Class,"Saalfeld, Mr. Adolphe",30.5,1
+female,50.0,0,1,PC 17558,B58 B60,C,Upper Class,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",247.5208,1
+female,,0,0,9234,,Q,Lower Class,"Kelly, Miss. Anna Katherine ""Annie Kate""",7.75,1
+male,,2,0,367226,,Q,Lower Class,"McCoy, Mr. Bernard",23.25,1
+male,19.0,0,0,LINE,,S,Lower Class,"Johnson, Mr. William Cahoone Jr",0.0,0
+female,,0,0,226593,E101,Q,Middle Class,"Keane, Miss. Nora A",12.35,1
+male,,0,0,A/5 2466,,S,Lower Class,"Williams, Mr. Howard Hugh ""Harry""",8.05,0
+male,0.92,1,2,113781,C22 C26,S,Upper Class,"Allison, Master. Hudson Trevor",151.55,1
+female,,0,0,17421,,C,Upper Class,"Fleming, Miss. Margaret",110.8833,1
+female,17.0,1,0,PC 17758,C65,C,Upper Class,"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",108.9,1
+male,30.0,1,0,P/PP 3381,,C,Middle Class,"Abelson, Mr. Samuel",24.0,0
+female,30.0,0,0,PC 17485,E36,C,Upper Class,"Francatelli, Miss. Laura Mabel",56.9292,1
+female,24.0,0,0,11767,C54,C,Upper Class,"Hays, Miss. Margaret Bechstein",83.1583,1
+female,18.0,2,2,PC 17608,B57 B59 B63 B66,C,Upper Class,"Ryerson, Miss. Emily Borie",262.375,1
+female,26.0,1,1,250651,,S,Middle Class,"Lahtinen, Mrs. William (Anna Sylfven)",26.0,0
+male,28.0,0,0,349243,,S,Lower Class,"Hendekovic, Mr. Ignjac",7.8958,0
+male,43.0,1,1,F.C.C. 13529,,S,Middle Class,"Hart, Mr. Benjamin",26.25,0
+female,26.0,0,0,347470,,S,Lower Class,"Nilsson, Miss. Helmina Josefina",7.8542,1
+female,24.0,1,0,244367,,S,Middle Class,"Kantor, Mrs. Sinai (Miriam Sternin)",26.0,1
+male,54.0,0,0,29011,,S,Middle Class,"Moraweck, Dr. Ernest",14.0,0
+female,31.0,0,2,36928,C7,S,Upper Class,"Wick, Miss. Mary Natalie",164.8667,1
+female,40.0,1,1,16966,E34,C,Upper Class,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",134.5,1
+male,22.0,0,0,A/5 21172,,S,Lower Class,"Dennis, Mr. Samuel",7.25,0
+male,27.0,0,0,349219,,S,Lower Class,"Danoff, Mr. Yoto",7.8958,0
+female,30.0,0,0,234818,,Q,Middle Class,"Slayter, Miss. Hilda Mary",12.35,1
+female,22.0,1,1,248738,,S,Middle Class,"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)",29.0,1
+male,,8,2,CA. 2343,,S,Lower Class,"Sage, Mr. George John Jr",69.55,0
+female,36.0,0,0,PC 17760,C32,C,Upper Class,"Young, Miss. Marie Grice",135.6333,1
+male,61.0,0,0,345364,,S,Lower Class,"Nysveen, Mr. Johan Hansen",6.2375,0
+female,36.0,0,0,28551,D,S,Middle Class,"Ball, Mrs. (Ada E Hall)",13.0,1
+female,31.0,1,1,363291,,S,Lower Class,"Goldsmith, Mrs. Frank John (Emily Alice Brown)",20.525,1
+female,16.0,0,1,111361,B18,C,Upper Class,"Hippach, Miss. Jean Gertrude",57.9792,1
+female,,2,0,367226,,Q,Lower Class,"McCoy, Miss. Agnes",23.25,1
+male,45.5,0,0,113043,C124,S,Upper Class,"Partner, Mr. Austen",28.5,0
+male,38.0,0,1,PC 17582,C91,S,Upper Class,"Graham, Mr. George Edward",153.4625,0
+male,16.0,2,0,345764,,S,Lower Class,"Vander Planke, Mr. Leo Edmondus",18.0,0
+female,,1,0,PC 17611,,S,Upper Class,"Frauenthal, Mrs. Henry William (Clara Heinsheimer)",133.65,1
+male,,0,0,349225,,S,Lower Class,"Denkoff, Mr. Mitto",7.8958,0
+male,29.0,1,0,113776,C2,S,Upper Class,"Pears, Mr. Thomas Clinton",66.6,0
+female,41.0,0,0,16966,E40,C,Upper Class,"Burns, Miss. Elizabeth Margaret",134.5,1
+male,45.0,0,0,7598,,S,Lower Class,"Dahl, Mr. Karl Edwart",8.05,1
+male,45.0,0,0,113784,T,S,Upper Class,"Blackwell, Mr. Stephen Weart",35.5,0
+male,2.0,1,1,230080,F2,S,Middle Class,"Navratil, Master. Edmond Roger",26.0,1
+female,24.0,3,2,19950,C23 C25 C27,S,Upper Class,"Fortune, Miss. Alice Elizabeth",263.0,1
+male,28.0,0,0,248740,,S,Middle Class,"Collander, Mr. Erik Gustaf",13.0,0
+male,25.0,0,0,244361,,S,Middle Class,"Sedgwick, Mr. Charles Frederick Waddington",13.0,0
+male,36.0,0,0,229236,,S,Middle Class,"Fox, Mr. Stanley Hubert",13.0,0
+female,24.0,0,0,248733,F33,S,Middle Class,"Brown, Miss. Amelia ""Mildred""",13.0,1
+female,40.0,0,0,31418,,S,Middle Class,"Smith, Miss. Marion Elsie",13.0,1
+female,,1,0,386525,,S,Lower Class,"Davison, Mrs. Thomas Henry (Mary E Finck)",16.1,1
+male,3.0,1,1,C.A. 37671,,S,Lower Class,"Coutts, Master. William Loch ""William""",15.9,1
+male,42.0,0,0,315088,,S,Lower Class,"Dimic, Mr. Jovan",8.6625,0
+male,23.0,0,0,7267,,S,Lower Class,"Odahl, Mr. Nils Martin",9.225,0
+male,,0,0,113510,C128,S,Upper Class,"Williams-Lambert, Mr. Fletcher Fellows",35.0,0
+male,15.0,1,1,2695,,C,Lower Class,"Elias, Mr. Tannous",7.2292,0
+male,25.0,1,0,349237,,S,Lower Class,"Arnold-Franchi, Mr. Josef",17.8,0
+male,,0,0,2647,,C,Lower Class,"Yousif, Mr. Wazli",7.225,0
+male,28.0,0,0,345783,,S,Lower Class,"Vanden Steen, Mr. Leo Peter",9.5,0
+female,22.0,0,1,113505,E33,S,Upper Class,"Bowerman, Miss. Elsie Edith",55.0,1
+female,38.0,0,0,237671,,S,Middle Class,"Funk, Miss. Annie Clemmer",13.0,0
+female,,0,0,330931,,Q,Lower Class,"McGovern, Miss. Mary",7.8792,1
+female,,0,0,330980,,Q,Lower Class,"Mockler, Miss. Helen Mary ""Ellie""",7.8792,1
+male,40.0,1,4,347088,,S,Lower Class,"Skoog, Mr. Wilhelm",27.9,0
+male,29.0,1,0,SC/PARIS 2167,,C,Middle Class,"del Carlo, Mr. Sebastiano",27.7208,0
+female,45.0,0,1,2691,,C,Lower Class,"Barbara, Mrs. (Catherine David)",14.4542,0
+male,35.0,0,0,SOTON/O.Q. 3101310,,S,Lower Class,"Asim, Mr. Adola",7.05,0
+male,,1,0,370365,,Q,Lower Class,"O'Brien, Mr. Thomas",15.5,0
+male,30.0,0,0,C 7076,,S,Lower Class,"Adahl, Mr. Mauritz Nils Martin",7.25,0
+female,60.0,1,0,110813,D37,C,Upper Class,"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",75.25,1
+female,,0,0,2626,,C,Lower Class,"Moussa, Mrs. (Mantoura Boulos)",7.2292,1
+female,,0,0,14313,,Q,Lower Class,"Jermyn, Miss. Annie",7.75,1
+female,24.0,0,0,PC 17477,B35,C,Upper Class,"Aubart, Mme. Leontine Pauline",69.3,1
+male,25.0,1,0,11765,E50,C,Upper Class,"Harder, Mr. George Achilles",55.4417,1
+male,18.0,1,0,3101267,,S,Lower Class,"Wiklund, Mr. Jakob Alfred",6.4958,0
+male,19.0,0,0,323951,,S,Lower Class,"Beavan, Mr. William Thomas",8.05,0
+male,22.0,0,0,PC 17760,,C,Upper Class,"Ringhini, Mr. Sante",135.6333,0
+female,3.0,3,1,349909,,S,Lower Class,"Palsson, Miss. Stina Viola",21.075,0
+female,,1,0,PC 17604,,C,Upper Class,"Meyer, Mrs. Edgar Joseph (Leila Saks)",82.1708,1
+female,22.0,0,0,C 7077,,S,Lower Class,"Landergren, Miss. Aurora Adelia",7.25,1
+male,27.0,0,2,113503,C82,C,Upper Class,"Widener, Mr. Harry Elkins",211.5,0
+male,20.0,0,0,2648,,C,Lower Class,"Betros, Mr. Tannous",4.0125,0
+male,19.0,0,0,347069,,S,Lower Class,"Gustafsson, Mr. Karl Gideon",7.775,0
+female,42.0,0,0,PC 17757,,C,Upper Class,"Bidois, Miss. Rosalie",227.525,1
+female,1.0,0,2,2653,,C,Lower Class,"Nakid, Miss. Maria (""Mary"")",15.7417,1
+male,32.0,0,0,STON/O 2. 3101293,,S,Lower Class,"Tikkanen, Mr. Juho",7.925,0
+female,35.0,1,0,113789,,S,Upper Class,"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",52.0,1
+male,,0,0,349227,,S,Lower Class,"Plotcharsky, Mr. Vasil",7.8958,0
+male,18.0,0,0,S.O.C. 14879,,S,Middle Class,"Davies, Mr. Charles Henry",73.5,0
+male,1.0,5,2,CA 2144,,S,Lower Class,"Goodwin, Master. Sidney Leonard",46.9,0
+female,36.0,0,0,27849,,S,Middle Class,"Buss, Miss. Kate",13.0,1
+male,,0,0,367655,,Q,Lower Class,"Sadlier, Mr. Matthew",7.7292,0
+female,17.0,0,0,SC 1748,,C,Middle Class,"Lehmann, Miss. Bertha",12.0,1
+male,36.0,1,2,113760,B96 B98,S,Upper Class,"Carter, Mr. William Ernest",120.0,1
+male,21.0,0,0,350034,,S,Lower Class,"Jansson, Mr. Carl Olof",7.7958,1
+male,28.0,2,0,3101277,,S,Lower Class,"Gustafsson, Mr. Johan Birger",7.925,0
+female,23.0,1,0,35273,D36,C,Upper Class,"Newell, Miss. Marjorie",113.275,1
+female,24.0,0,2,PP 9549,G6,S,Lower Class,"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",16.7,1
+male,22.0,0,0,350052,,S,Lower Class,"Johansson, Mr. Erik",7.7958,0
+female,31.0,0,0,350407,,S,Lower Class,"Olsson, Miss. Elina",7.8542,0
+male,46.0,0,0,28403,,S,Middle Class,"McKane, Mr. Peter David",26.0,0
+male,23.0,0,0,244278,,S,Middle Class,"Pain, Dr. Alfred",10.5,0
+female,28.0,0,0,240929,,S,Middle Class,"Trout, Mrs. William H (Jessie L)",12.65,1
+male,39.0,0,0,STON/O 2. 3101289,,S,Lower Class,"Niskanen, Mr. Juha",7.925,1
+male,26.0,0,0,341826,,S,Lower Class,"Adams, Mr. John",8.05,0
+female,21.0,1,0,4137,,S,Lower Class,"Jussila, Miss. Mari Aina",9.825,0
+male,28.0,1,0,STON/O2. 3101279,,S,Lower Class,"Hakkarainen, Mr. Pekka Pietari",15.85,0
+female,20.0,0,0,315096,,S,Lower Class,"Oreskovic, Miss. Marija",8.6625,0
+male,34.0,1,0,28664,,S,Middle Class,"Gale, Mr. Shadrach",21.0,0
+male,51.0,0,0,347064,,S,Lower Class,"Widegren, Mr. Carl/Charles Peter",7.75,0
+male,3.0,1,1,29106,,S,Middle Class,"Richards, Master. William Rowe",18.75,1
+male,21.0,0,0,312992,,S,Lower Class,"Birkeland, Mr. Hans Martin Monsen",7.775,0
+female,,3,1,4133,,S,Lower Class,"Lefebre, Miss. Ida",25.4667,0
+male,,0,0,349222,,S,Lower Class,"Sdycoff, Mr. Todor",7.8958,0
+male,,0,0,394140,,Q,Lower Class,"Hart, Mr. Henry",6.8583,0
+female,33.0,1,0,19928,C78,Q,Upper Class,"Minahan, Miss. Daisy E",90.0,1
+male,,0,0,239853,,S,Middle Class,"Cunningham, Mr. Alfred Fleming",0.0,0
+male,44.0,0,0,STON/O 2. 3101269,,S,Lower Class,"Sundman, Mr. Johan Julian",7.925,1
+female,,0,0,343095,,S,Lower Class,"Meek, Mrs. Thomas (Annie Louise Rowley)",8.05,0
+female,34.0,1,1,28220,,S,Middle Class,"Drew, Mrs. James Vivian (Lulu Thorne Christian)",32.5,1
+female,18.0,0,2,250652,,S,Middle Class,"Silven, Miss. Lyyli Karoliina",13.0,1
+male,30.0,0,0,28228,,S,Middle Class,"Matthews, Mr. William John",13.0,0
+female,10.0,0,2,345773,,S,Lower Class,"Van Impe, Miss. Catharina",24.15,0
+male,,0,0,349254,,C,Lower Class,"Gheorgheff, Mr. Stanio",7.8958,0
+male,21.0,0,0,A/5. 13032,,Q,Lower Class,"Charters, Mr. David",7.7333,0
+male,29.0,0,0,315082,,S,Lower Class,"Zimmerman, Mr. Leo",7.875,0
+female,28.0,1,1,347080,,S,Lower Class,"Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)",14.4,0
+male,18.0,1,1,370129,,S,Lower Class,"Rosblom, Mr. Viktor Richard",20.2125,0
+male,,0,0,A/4. 34244,,S,Lower Class,"Wiseman, Mr. Phillippe",7.25,0
+female,28.0,1,0,2003,,S,Middle Class,"Clarke, Mrs. Charles V (Ada Maria Winfield)",26.0,1
+female,19.0,0,0,250655,,S,Middle Class,"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")",26.0,1
+male,,0,0,364851,,Q,Lower Class,"Flynn, Mr. James",7.75,0
+male,32.0,0,0,SOTON/O.Q. 392078,E10,S,Lower Class,"Pickard, Mr. Berk (Berk Trembisky)",8.05,1
+male,28.0,0,0,110564,C52,S,Upper Class,"Bjornstrom-Steffansson, Mr. Mauritz Hakan",26.55,1
+female,,1,0,376564,,S,Lower Class,"Thorneycroft, Mrs. Percival (Florence Kate White)",16.1,1
+female,42.0,1,0,SC/AH 3085,,S,Middle Class,"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)",26.0,1
+male,17.0,0,0,STON/O 2. 3101274,,S,Lower Class,"Kallio, Mr. Nikolai Erland",7.125,0
+male,50.0,1,0,13507,E44,S,Upper Class,"Silvey, Mr. William Baird",55.9,0
+female,14.0,1,2,113760,B96 B98,S,Upper Class,"Carter, Miss. Lucile Polk",120.0,1
+female,21.0,2,2,W./C. 6608,,S,Lower Class,"Ford, Miss. Doolina Margaret ""Daisy""",34.375,0
+female,24.0,2,3,29106,,S,Middle Class,"Richards, Mrs. Sidney (Emily Hocking)",18.75,1
+male,64.0,1,4,19950,C23 C25 C27,S,Upper Class,"Fortune, Mr. Mark",263.0,0
+male,31.0,0,0,C.A. 18723,,S,Middle Class,"Kvillner, Mr. Johan Henrik Johannesson",10.5,0
+female,45.0,1,1,F.C.C. 13529,,S,Middle Class,"Hart, Mrs. Benjamin (Esther Ada Bloomfield)",26.25,1
+male,20.0,0,0,345769,,S,Lower Class,"Hampe, Mr. Leon",9.5,0
+male,25.0,1,0,347076,,S,Lower Class,"Petterson, Mr. Johan Emil",7.775,0
+female,28.0,0,0,230434,,S,Middle Class,"Reynaldo, Ms. Encarnacion",13.0,1
+male,,0,0,65306,,S,Lower Class,"Johannesen-Bratthammer, Mr. Bernt",8.1125,1
+male,4.0,0,2,33638,A34,S,Upper Class,"Dodge, Master. Washington",81.8583,1
+female,13.0,0,1,250644,,S,Middle Class,"Mellinger, Miss. Madeleine Violet",19.5,1
+male,34.0,0,0,113794,,S,Upper Class,"Seward, Mr. Frederic Kimber",26.55,1
+female,5.0,2,1,2666,,C,Lower Class,"Baclini, Miss. Marie Catherine",19.2583,1
+male,52.0,0,0,113786,C104,S,Upper Class,"Peuchen, Major. Arthur Godfrey",30.5,1
+male,36.0,1,2,C.A. 34651,,S,Middle Class,"West, Mr. Edwy Arthur",27.75,0
+male,,1,0,65303,,S,Lower Class,"Hagland, Mr. Ingvald Olai Olsen",19.9667,0
+male,30.0,0,0,113051,C111,C,Upper Class,"Foreman, Mr. Benjamin Laventall",27.75,0
+male,49.0,1,0,17453,C92,C,Upper Class,"Goldenberg, Mr. Samuel L",89.1042,1
+male,,0,0,A/5 2817,,S,Lower Class,"Peduzzi, Mr. Joseph",8.05,0
+male,29.0,0,0,349240,,C,Lower Class,"Jalsevac, Mr. Ivan",7.8958,1
+male,65.0,0,0,13509,E38,S,Upper Class,"Millet, Mr. Francis Davis",26.55,0
+female,,1,0,17464,D21,S,Upper Class,"Kenyon, Mrs. Frederick R (Marion)",51.8625,1
+female,50.0,0,0,F.C.C. 13531,,S,Middle Class,"Toomey, Miss. Ellen",10.5,1
+male,,0,0,371060,,Q,Lower Class,"O'Connor, Mr. Maurice",7.75,0
+male,48.0,0,0,19952,E12,S,Upper Class,"Anderson, Mr. Harry",26.55,1
+male,34.0,0,0,364506,,S,Lower Class,"Morley, Mr. William",8.05,0
+male,47.0,0,0,111320,E63,S,Upper Class,"Gee, Mr. Arthur H",38.5,0
+male,48.0,0,0,234360,,S,Middle Class,"Milling, Mr. Jacob Christian",13.0,0
+male,,0,0,A/S 2816,,S,Lower Class,"Maisner, Mr. Simon",8.05,0
+male,38.0,0,0,SOTON/O.Q. 3101306,,S,Lower Class,"Goncalves, Mr. Manuel Estanslas",7.05,0
+male,,0,0,239853,,S,Middle Class,"Campbell, Mr. William",0.0,0
+male,56.0,0,0,113792,,S,Upper Class,"Smart, Mr. John Montgomery",26.55,0
+male,,0,0,36209,,Q,Lower Class,"Scanlan, Mr. James",7.725,0
+female,0.75,2,1,2666,,C,Lower Class,"Baclini, Miss. Helene Barbara",19.2583,1
+male,,0,0,323592,,S,Lower Class,"Keefe, Mr. Arthur",7.25,0
+male,38.0,0,0,315089,,S,Lower Class,"Cacic, Mr. Luka",8.6625,0
+female,33.0,1,2,C.A. 34651,,S,Middle Class,"West, Mrs. Edwy Arthur (Ada Mary Worth)",27.75,1
+female,23.0,0,0,SC/AH Basle 541,D,C,Middle Class,"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",13.7917,1
+female,22.0,0,0,7553,,S,Lower Class,"Strandberg, Miss. Ida Sofia",9.8375,0
+male,,0,0,110465,A14,S,Upper Class,"Clifford, Mr. George Quincy",52.0,0
+male,34.0,1,0,31027,,S,Middle Class,"Renouf, Mr. Peter Henry",21.0,0
+male,29.0,1,0,3460,,S,Lower Class,"Braund, Mr. Lewis Richard",7.0458,0
+male,22.0,0,0,350060,,S,Lower Class,"Karlsson, Mr. Nils August",7.5208,0
+female,2.0,0,1,3101298,,S,Lower Class,"Hirvonen, Miss. Hildur E",12.2875,1
+male,9.0,5,2,CA 2144,,S,Lower Class,"Goodwin, Master. Harold Victor",46.9,0
+male,,0,0,239854,,S,Middle Class,"Frost, Mr. Anthony Wood ""Archie""",0.0,0
+male,50.0,0,0,A/5 3594,,S,Lower Class,"Rouse, Mr. Richard Henry",8.05,0
+female,63.0,0,0,4134,,S,Lower Class,"Turkula, Mrs. (Hedwig)",9.5875,1
+male,25.0,1,0,11967,B49,C,Upper Class,"Bishop, Mr. Dickinson H",91.0792,1
+female,,3,1,4133,,S,Lower Class,"Lefebre, Miss. Jeannie",25.4667,0
+female,35.0,1,0,19943,C93,S,Upper Class,"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",90.0,1
+male,58.0,0,0,11771,B37,C,Upper Class,"Kent, Mr. Edward Austin",29.7,0
+male,30.0,0,0,A.5. 18509,,S,Lower Class,"Somerton, Mr. Francis William",8.05,0
+male,9.0,1,1,C.A. 37671,,S,Lower Class,"Coutts, Master. Eden Leslie ""Neville""",15.9,1
+male,,1,0,65304,,S,Lower Class,"Hagland, Mr. Konrad Mathias Reiersen",19.9667,0
+male,21.0,0,0,SOTON/OQ 3101317,,S,Lower Class,"Windelov, Mr. Einar",7.25,0
+male,55.0,0,0,113787,C30,S,Upper Class,"Molson, Mr. Harry Markland",30.5,0
+male,71.0,0,0,PC 17609,,C,Upper Class,"Artagaveytia, Mr. Ramon",49.5042,0
+male,21.0,0,0,A/4 45380,,S,Lower Class,"Stanley, Mr. Edward Roland",8.05,0
+male,,0,0,2627,,C,Lower Class,"Yousseff, Mr. Gerious",14.4583,0
+female,54.0,1,0,36947,D20,C,Upper Class,"Eustis, Miss. Elizabeth Mussey",78.2667,1
+male,,0,0,C.A. 6212,,S,Lower Class,"Shellard, Mr. Frederick William",15.1,0
+female,25.0,1,2,113781,C22 C26,S,Upper Class,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",151.55,0
+male,24.0,0,0,350035,,S,Lower Class,"Svensson, Mr. Olof",7.7958,0
+male,17.0,0,0,315086,,S,Lower Class,"Calic, Mr. Petar",8.6625,0
+female,21.0,0,0,364846,,Q,Lower Class,"Canavan, Miss. Mary",7.75,0
+female,,0,0,330909,,Q,Lower Class,"O'Sullivan, Miss. Bridget Mary",7.6292,0
+female,37.0,0,0,4135,,S,Lower Class,"Laitinen, Miss. Kristina Sofia",9.5875,0
+female,16.0,0,0,110152,B79,S,Upper Class,"Maioni, Miss. Roberta",86.5,1
+male,18.0,1,0,PC 17758,C65,C,Upper Class,"Penasco y Castellana, Mr. Victor de Satode",108.9,0
+female,33.0,0,2,26360,,S,Middle Class,"Quick, Mrs. Frederick Charles (Jane Richards)",26.0,1
+male,,0,0,111427,,S,Upper Class,"Bradley, Mr. George (""George Arthur Brayton"")",26.55,1
+male,28.0,0,0,C 4001,,S,Lower Class,"Olsen, Mr. Henry Margido",22.525,0
+male,26.0,0,0,1601,,S,Lower Class,"Lang, Mr. Fang",56.4958,1
+male,29.0,0,0,382651,,Q,Lower Class,"Daly, Mr. Eugene Patrick",7.75,1
+male,,0,0,SOTON/OQ 3101316,,S,Lower Class,"Webber, Mr. James",8.05,0
+male,36.0,0,0,PC 17473,E25,S,Upper Class,"McGough, Mr. James Robert",26.2875,1
+female,54.0,1,0,PC 17603,,C,Upper Class,"Rothschild, Mrs. Martin (Elizabeth L. Barrett)",59.4,1
+male,24.0,0,0,349209,,S,Lower Class,"Coleff, Mr. Satio",7.4958,0
+male,47.0,0,0,36967,D46,S,Upper Class,"Walker, Mr. William Anderson",34.0208,0
+female,34.0,0,0,C.A. 34260,F33,S,Middle Class,"Lemore, Mrs. (Amelia Milley)",10.5,1
+male,,0,0,371110,,Q,Lower Class,"Ryan, Mr. Patrick",24.15,0
+female,36.0,1,0,226875,,S,Middle Class,"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)",26.0,1
+male,32.0,0,0,349242,,S,Lower Class,"Pavlovic, Mr. Stefo",7.8958,0
+female,30.0,0,0,12749,B73,S,Upper Class,"Perreault, Miss. Anne",93.5,1
+male,22.0,0,0,349252,,S,Lower Class,"Vovk, Mr. Janko",7.8958,0
+male,,0,0,2624,,C,Lower Class,"Lahoud, Mr. Sarkis",7.225,0
+female,44.0,0,1,111361,B18,C,Upper Class,"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",57.9792,1
+male,,0,0,2700,,C,Lower Class,"Kassem, Mr. Fared",7.2292,0
+male,40.5,0,0,367232,,Q,Lower Class,"Farrell, Mr. James",7.75,0
+female,50.0,0,0,W./C. 14258,,S,Middle Class,"Ridsdale, Miss. Lucy",10.5,1
+male,,0,0,PC 17483,C95,S,Upper Class,"Farthing, Mr. John",221.7792,0
+male,39.0,0,0,3101296,,S,Lower Class,"Salonen, Mr. Johan Werner",7.925,0
+male,23.0,2,1,29104,,S,Middle Class,"Hocking, Mr. Richard George",11.5,0
+female,2.0,1,1,26360,,S,Middle Class,"Quick, Miss. Phyllis May",26.0,1
+male,,0,0,2641,,C,Lower Class,"Toufik, Mr. Nakli",7.2292,0
+male,17.0,1,1,2690,,C,Lower Class,"Elias, Mr. Joseph Jr",7.2292,0
+female,,0,2,2668,,C,Lower Class,"Peter, Mrs. Catherine (Catherine Rizk)",22.3583,1
+female,30.0,0,0,315084,,S,Lower Class,"Cacic, Miss. Marija",8.6625,0
+female,7.0,0,2,F.C.C. 13529,,S,Middle Class,"Hart, Miss. Eva Miriam",26.25,1
+male,45.0,0,0,113050,B38,S,Upper Class,"Butt, Major. Archibald Willingham",26.55,0
+female,30.0,0,0,PC 17761,,C,Upper Class,"LeRoy, Miss. Bertha",106.425,1
+male,,0,0,364498,,S,Lower Class,"Risien, Mr. Samuel Beard",14.5,0
+female,22.0,0,2,13568,B39,C,Upper Class,"Frolicher, Miss. Hedwig Margaritha",49.5,1
+female,36.0,0,2,WE/P 5735,B22,S,Upper Class,"Crosby, Miss. Harriet R",71.0,1
+female,9.0,4,2,347082,,S,Lower Class,"Andersson, Miss. Ingeborg Constanzia",31.275,0
+female,11.0,4,2,347082,,S,Lower Class,"Andersson, Miss. Sigrid Elisabeth",31.275,0
+male,32.0,1,0,2908,,S,Middle Class,"Beane, Mr. Edward",26.0,1
+male,50.0,1,0,PC 17761,C86,C,Upper Class,"Douglas, Mr. Walter Donald",106.425,0
+male,64.0,0,0,693,,S,Upper Class,"Nicholson, Mr. Arthur Ernest",26.0,0
+female,19.0,1,0,2908,,S,Middle Class,"Beane, Mrs. Edward (Ethel Clarke)",26.0,1
+male,,0,0,SC/PARIS 2146,,C,Middle Class,"Padro y Manent, Mr. Julian",13.8625,1
+male,33.0,1,1,363291,,S,Lower Class,"Goldsmith, Mr. Frank John",20.525,0
+male,8.0,1,1,C.A. 33112,,S,Middle Class,"Davies, Master. John Morgan Jr",36.75,1
+male,17.0,0,2,17421,C70,C,Upper Class,"Thayer, Mr. John Borland Jr",110.8833,1
+male,27.0,0,0,244358,,S,Middle Class,"Sharp, Mr. Percival James R",26.0,0
+male,,0,0,330979,,Q,Lower Class,"O'Brien, Mr. Timothy",7.8292,0
+male,22.0,0,0,2620,,C,Lower Class,"Leeni, Mr. Fahim (""Philip Zenni"")",7.225,1
+female,22.0,0,0,347085,,S,Lower Class,"Ohman, Miss. Velin",7.775,1
+male,62.0,0,0,113807,,S,Upper Class,"Wright, Mr. George",26.55,0
+female,48.0,1,0,11755,A16,C,Upper Class,"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",39.6,1
+male,,0,0,PC 17757,,C,Upper Class,"Robbins, Mr. Victor",227.525,0
+female,39.0,1,1,110413,E67,S,Upper Class,"Taussig, Mrs. Emil (Tillie Mandelbaum)",79.65,1
+female,36.0,1,0,345572,,S,Lower Class,"de Messemaeker, Mrs. Guillaume Joseph (Emma)",17.4,1
+male,,0,0,372622,,Q,Lower Class,"Morrow, Mr. Thomas Rowan",7.75,0
+male,40.0,0,0,349251,,S,Lower Class,"Sivic, Mr. Husein",7.8958,0
+male,28.0,0,0,218629,,S,Middle Class,"Norman, Mr. Robert Douglas",13.5,0
+male,,0,0,SOTON/OQ 392082,,S,Lower Class,"Simmons, Mr. John",8.05,0
+female,,0,0,SOTON/O.Q. 392087,,S,Lower Class,"Meanwell, Miss. (Marion Ogden)",8.05,0
+male,24.0,2,0,A/4 48871,,S,Lower Class,"Davies, Mr. Alfred J",24.15,0
+male,19.0,0,0,349205,,S,Lower Class,"Stoytcheff, Mr. Ilia",7.8958,0
+female,29.0,0,4,349909,,S,Lower Class,"Palsson, Mrs. Nils (Alma Cornelia Berglund)",21.075,0
+male,,0,0,2686,,C,Lower Class,"Doharr, Mr. Tannous",7.2292,0
+male,32.0,0,0,350417,,S,Lower Class,"Jonsson, Mr. Carl",7.8542,1
+male,62.0,0,0,S.W./PP 752,,S,Middle Class,"Harris, Mr. George",10.5,1
+female,53.0,2,0,11769,C101,S,Upper Class,"Appleton, Mrs. Edward Dale (Charlotte Lamson)",51.4792,1
+male,36.0,0,0,PC 17474,E25,S,Upper Class,"Flynn, Mr. John Irwin (""Irving"")",26.3875,1
+female,,0,0,14312,,Q,Lower Class,"Kelly, Miss. Mary",7.75,1
+male,16.0,0,0,A/4. 20589,,S,Lower Class,"Rush, Mr. Alfred George John",8.05,0
+male,19.0,0,0,358585,,S,Lower Class,"Patchett, Mr. George",14.5,0
+female,34.0,0,0,243880,,S,Middle Class,"Garside, Miss. Ethel",13.0,1
+female,39.0,1,0,13507,E44,S,Upper Class,"Silvey, Mrs. William Baird (Alice Munger)",55.9,1
+female,,1,0,2689,,C,Lower Class,"Caram, Mrs. Joseph (Maria Elias)",14.4583,0
+male,32.0,0,0,STON/O 2. 3101286,,S,Lower Class,"Jussila, Mr. Eiriik",7.925,1
+female,25.0,1,1,237789,,S,Middle Class,"Christy, Miss. Julie Rachel",30.0,1
+female,39.0,1,1,17421,C68,C,Upper Class,"Thayer, Mrs. John Borland (Marian Longstreth Morris)",110.8833,1
+male,54.0,0,0,28403,,S,Middle Class,"Downton, Mr. William James",26.0,0
+male,36.0,0,0,13049,A10,C,Upper Class,"Ross, Mr. John Hugo",40.125,0
+male,,0,0,3411,,C,Lower Class,"Paulner, Mr. Uscher",8.7125,0
+female,18.0,0,2,110413,E68,S,Upper Class,"Taussig, Miss. Ruth",79.65,1
+male,47.0,0,0,237565,,S,Middle Class,"Jarvis, Mr. John Denzil",15.0,0
+male,60.0,1,1,13567,B41,C,Upper Class,"Frolicher-Stehli, Mr. Maxmillian",79.2,1
+male,22.0,0,0,14973,,S,Lower Class,"Gilinski, Mr. Eliezer",8.05,0
+male,,0,0,A./5. 3235,,S,Lower Class,"Murdlin, Mr. Joseph",8.05,0
+male,35.0,0,0,STON/O 2. 3101273,,S,Lower Class,"Rintamaki, Mr. Matti",7.125,0
+female,52.0,1,0,36947,D20,C,Upper Class,"Stephenson, Mrs. Walter Bertram (Martha Eustis)",78.2667,1
+male,47.0,0,0,A/5 3902,,S,Lower Class,"Elsbury, Mr. William James",7.25,0
+female,,0,2,364848,,Q,Lower Class,"Bourke, Miss. Mary",7.75,0
+male,37.0,1,0,SC/AH 29037,,S,Middle Class,"Chapman, Mr. John Henry",26.0,0
+male,36.0,1,1,345773,,S,Lower Class,"Van Impe, Mr. Jean Baptiste",24.15,0
+female,,0,0,248727,,S,Middle Class,"Leitch, Miss. Jessie Wills",33.0,1
+male,49.0,0,0,LINE,,S,Lower Class,"Johnson, Mr. Alfred",0.0,0
+male,,0,0,2664,,C,Lower Class,"Boulos, Mr. Hanna",7.225,0
+male,49.0,1,0,PC 17485,A20,C,Upper Class,"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",56.9292,1
+female,24.0,2,1,243847,,S,Middle Class,"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",27.0,1
+male,,0,0,349214,,S,Lower Class,"Slabenoff, Mr. Petco",7.8958,0
+male,,0,0,113796,,S,Upper Class,"Harrington, Mr. Charles H",42.4,0
+male,44.0,0,0,364511,,S,Lower Class,"Torber, Mr. Ernst William",8.05,0
+male,35.0,0,0,111426,,C,Upper Class,"Homer, Mr. Harry (""Mr E Haven"")",26.55,1
+male,36.0,1,0,349910,,S,Lower Class,"Lindell, Mr. Edvard Bengtsson",15.55,0
+male,30.0,0,0,349246,,S,Lower Class,"Karaic, Mr. Milan",7.8958,0
+male,27.0,0,0,113804,,S,Upper Class,"Daniel, Mr. Robert Williams",30.5,1
+female,22.0,1,2,SC/Paris 2123,,C,Middle Class,"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",41.5792,1
+female,40.0,0,0,PC 17582,C125,S,Upper Class,"Shutes, Miss. Elizabeth W",153.4625,1
+female,39.0,1,5,347082,,S,Lower Class,"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",31.275,0
+male,,0,0,SOTON/O.Q. 3101305,,S,Lower Class,"Jardin, Mr. Jose Neto",7.05,0
+female,,1,0,367230,,Q,Lower Class,"Murphy, Miss. Margaret Jane",15.5,1
+male,,0,0,370377,,Q,Lower Class,"Horgan, Mr. John",7.75,0
+male,35.0,0,0,364512,,S,Lower Class,"Brocklebank, Mr. William Alfred",8.05,0
+female,24.0,1,2,220845,,S,Middle Class,"Herman, Miss. Alice",65.0,1
+male,34.0,1,1,347080,,S,Lower Class,"Danbom, Mr. Ernst Gilbert",14.4,0
+female,26.0,1,0,A/5. 3336,,S,Lower Class,"Lobb, Mrs. William Arthur (Cordelia K Stanlick)",16.1,0
+female,4.0,2,1,230136,F4,S,Middle Class,"Becker, Miss. Marion Louise",39.0,1
+male,26.0,0,0,31028,,S,Middle Class,"Gavey, Mr. Lawrence",10.5,0
+male,27.0,1,0,2659,,C,Lower Class,"Yasbeck, Mr. Antoni",14.4542,0
+male,42.0,1,0,11753,D19,S,Upper Class,"Kimball, Mr. Edwin Nelson Jr",52.5542,1
+male,20.0,1,1,2653,,C,Lower Class,"Nakid, Mr. Sahid",15.7417,1
+male,21.0,0,0,350029,,S,Lower Class,"Hansen, Mr. Henry Damsgaard",7.8542,0
+male,21.0,0,0,54636,,S,Lower Class,"Bowen, Mr. David John ""Dai""",16.1,0
+male,61.0,0,0,36963,D50,S,Upper Class,"Sutton, Mr. Frederick",32.3208,0
+male,57.0,0,0,219533,,Q,Middle Class,"Kirkland, Rev. Charles Leonard",12.35,0
+female,21.0,0,0,13502,D9,S,Upper Class,"Longley, Miss. Gretchen Fiske",77.9583,1
+male,26.0,0,0,349224,,S,Lower Class,"Bostandyeff, Mr. Guentcho",7.8958,0
+male,,0,0,334912,,Q,Lower Class,"O'Connell, Mr. Patrick D",7.7333,0
+male,80.0,0,0,27042,A23,S,Upper Class,"Barkworth, Mr. Algernon Henry Wilson",30.0,1
+male,51.0,0,0,347743,,S,Lower Class,"Lundahl, Mr. Johan Svensson",7.0542,0
+male,32.0,0,0,13214,B50,C,Upper Class,"Stahelin-Maeglin, Dr. Max",30.5,1
+male,,0,0,112052,,S,Upper Class,"Parr, Mr. William Henry Marsh",0.0,0
+female,9.0,3,2,347088,,S,Lower Class,"Skoog, Miss. Mabel",27.9,0
+female,28.0,0,0,237668,,S,Middle Class,"Davis, Miss. Mary",13.0,1
+male,32.0,0,0,STON/O 2. 3101292,,S,Lower Class,"Leinonen, Mr. Antti Gustaf",7.925,0
+male,31.0,1,1,C.A. 31921,,S,Middle Class,"Collyer, Mr. Harvey",26.25,0
+female,41.0,0,5,3101295,,S,Lower Class,"Panula, Mrs. Juha (Maria Emilia Ojala)",39.6875,0
+male,,1,0,376564,,S,Lower Class,"Thorneycroft, Mr. Percival",16.1,0
+male,20.0,0,0,350050,,S,Lower Class,"Jensen, Mr. Hans Peder",7.8542,0
+female,24.0,0,0,PC 17477,B35,C,Upper Class,"Sagesser, Mlle. Emma",69.3,1
+female,2.0,3,2,347088,,S,Lower Class,"Skoog, Miss. Margit Elizabeth",27.9,0
+male,,0,0,1601,,S,Lower Class,"Foo, Mr. Choong",56.4958,1
+female,0.75,2,1,2666,,C,Lower Class,"Baclini, Miss. Eugenie",19.2583,1
+male,48.0,1,0,PC 17572,D33,C,Upper Class,"Harper, Mr. Henry Sleeper",76.7292,1
+male,19.0,0,0,349231,,S,Lower Class,"Cor, Mr. Liudevit",7.8958,0
+male,56.0,0,0,13213,A26,C,Upper Class,"Simonius-Blumer, Col. Oberst Alfons",35.5,1
+male,,0,0,S.O./P.P. 751,,S,Lower Class,"Willey, Mr. Edward",7.55,0
+female,23.0,0,0,CA. 2314,,S,Lower Class,"Stanley, Miss. Amy Zillah Elsie",7.55,1
+male,,0,0,349221,,S,Lower Class,"Mitkoff, Mr. Mito",7.8958,0
+female,18.0,0,1,231919,,S,Middle Class,"Doling, Miss. Elsie",23.0,1
+male,21.0,0,0,8475,,S,Lower Class,"Kalvik, Mr. Johannes Halvorsen",8.4333,0
+female,,0,0,330919,,Q,Lower Class,"O'Leary, Miss. Hanora ""Norah""",7.8292,1
+female,18.0,0,0,365226,,Q,Lower Class,"Hegarty, Miss. Hanora ""Nora""",6.75,0
+male,24.0,2,0,S.O.C. 14879,,S,Middle Class,"Hickman, Mr. Leonard Mark",73.5,0
+male,,0,0,349223,,S,Lower Class,"Radeff, Mr. Alexander",7.8958,0
+female,32.0,1,1,364849,,Q,Lower Class,"Bourke, Mrs. John (Catherine)",15.5,0
+male,23.0,0,0,29751,,S,Middle Class,"Eitemiller, Mr. George Floyd",13.0,0
+male,58.0,0,2,35273,D48,C,Upper Class,"Newell, Mr. Arthur Webster",113.275,0
+male,50.0,2,0,PC 17611,,S,Upper Class,"Frauenthal, Dr. Henry William",133.65,1
+male,40.0,0,0,2623,,C,Lower Class,"Badt, Mr. Mohamed",7.225,0
+male,47.0,0,0,5727,E58,S,Upper Class,"Colley, Mr. Edward Pomeroy",25.5875,0
+male,36.0,0,0,349210,,S,Lower Class,"Coleff, Mr. Peju",7.4958,0
+male,20.0,1,0,STON/O 2. 3101285,,S,Lower Class,"Lindqvist, Mr. Eino William",7.925,1
+male,32.0,2,0,S.O.C. 14879,,S,Middle Class,"Hickman, Mr. Lewis",73.5,0
+male,25.0,0,0,234686,,S,Middle Class,"Butler, Mr. Reginald Fenton",13.0,0
+male,,0,0,312993,,S,Lower Class,"Rommetvedt, Mr. Knud Paust",7.775,0
+male,43.0,0,0,A/5 3536,,S,Lower Class,"Cook, Mr. Jacob",8.05,0
+female,,1,0,19996,C126,S,Upper Class,"Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)",52.0,1
+female,40.0,1,1,29750,,S,Middle Class,"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",39.0,1
+male,31.0,1,0,F.C. 12750,B71,S,Upper Class,"Davidson, Mr. Thornton",52.0,0
+male,70.0,0,0,C.A. 24580,,S,Middle Class,"Mitchell, Mr. Henry Michael",10.5,0
+male,31.0,0,0,244270,,S,Middle Class,"Wilhelms, Mr. Charles",13.0,1
+male,,0,0,239856,,S,Middle Class,"Watson, Mr. Ennis Hastings",0.0,0
+male,18.0,0,0,349912,,S,Lower Class,"Edvardsson, Mr. Gustaf Hjalmar",7.775,0
+male,24.5,0,0,342826,,S,Lower Class,"Sawyer, Mr. Frederick Charles",8.05,0
+female,18.0,0,0,4138,,S,Lower Class,"Turja, Miss. Anna Sofia",9.8417,1
+female,43.0,1,6,CA 2144,,S,Lower Class,"Goodwin, Mrs. Frederick (Augusta Tyler)",46.9,0
+male,36.0,0,1,PC 17755,B51 B53 B55,C,Upper Class,"Cardeza, Mr. Thomas Drake Martinez",512.3292,1
+female,,0,0,330935,,Q,Lower Class,"Peters, Miss. Katie",8.1375,0
+male,27.0,0,0,PC 17572,D49,C,Upper Class,"Hassab, Mr. Hammad",76.7292,1
+male,20.0,0,0,6563,,S,Lower Class,"Olsvigen, Mr. Thor Anderson",9.225,0
+male,14.0,5,2,CA 2144,,S,Lower Class,"Goodwin, Mr. Charles Edward",46.9,0
+male,60.0,1,1,29750,,S,Middle Class,"Brown, Mr. Thomas William Solomon",39.0,0
+male,25.0,1,2,SC/Paris 2123,,C,Middle Class,"Laroche, Mr. Joseph Philippe Lemercier",41.5792,0
+male,14.0,4,1,3101295,,S,Lower Class,"Panula, Mr. Jaako Arnold",39.6875,0
+male,19.0,0,0,349228,,S,Lower Class,"Dakic, Mr. Branko",10.1708,0
+male,18.0,0,0,350036,,S,Lower Class,"Fischer, Mr. Eberhard Thelander",7.7958,0
+female,15.0,0,1,24160,B5,S,Upper Class,"Madill, Miss. Georgette Alexandra",211.3375,1
+male,31.0,1,0,17474,B20,S,Upper Class,"Dick, Mr. Albert Adrian",57.0,1
+female,4.0,0,1,349256,,C,Lower Class,"Karun, Miss. Manca",13.4167,1
+male,,0,0,1601,,S,Lower Class,"Lam, Mr. Ali",56.4958,1
+male,25.0,0,0,2672,,C,Lower Class,"Saad, Mr. Khalil",7.225,0
+male,60.0,0,0,113800,,S,Upper Class,"Weir, Col. John",26.55,0
+male,52.0,0,0,248731,,S,Middle Class,"Chapman, Mr. Charles Henry",13.5,0
+male,44.0,0,0,363592,,S,Lower Class,"Kelly, Mr. James",8.05,0
+female,,0,0,35852,,Q,Lower Class,"Mullens, Miss. Katherine ""Katie""",7.7333,1
+male,49.0,1,1,17421,C68,C,Upper Class,"Thayer, Mr. John Borland",110.8833,0
+male,42.0,0,0,348121,F G63,S,Lower Class,"Humblen, Mr. Adolf Mathias Nicolai Olsen",7.65,0
+female,18.0,1,0,PC 17757,C62 C64,C,Upper Class,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",227.525,1
+male,35.0,0,0,PC 17475,E24,S,Upper Class,"Silverthorne, Mr. Spencer Victor",26.2875,1
+female,18.0,0,1,2691,,C,Lower Class,"Barbara, Miss. Saiide",14.4542,0
+male,25.0,0,0,36864,,Q,Lower Class,"Gallagher, Mr. Martin",7.7417,0
+male,26.0,1,0,350025,,S,Lower Class,"Hansen, Mr. Henrik Juul",7.8542,0
+male,39.0,0,0,250655,,S,Middle Class,"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")",26.0,0
+female,45.0,0,0,223596,,S,Middle Class,"Kelly, Mrs. Florence ""Fannie""",13.5,1
+male,42.0,0,0,PC 17476,E24,S,Upper Class,"Calderhead, Mr. Edward Pennington",26.2875,1
+female,22.0,0,0,113781,,S,Upper Class,"Cleaver, Miss. Alice",151.55,1
+male,,1,1,2661,,C,Lower Class,"Moubarek, Master. Halim Gonios (""William George"")",15.2458,1
+female,24.0,0,0,PC 17482,C90,C,Upper Class,"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")",49.5042,1
+male,,0,0,113028,C124,S,Upper Class,"Klaber, Mr. Herman",26.55,0
+male,48.0,1,0,19996,C126,S,Upper Class,"Taylor, Mr. Elmer Zebley",52.0,1
+male,29.0,0,0,7545,,S,Lower Class,"Larsson, Mr. August Viktor",9.4833,0
+male,52.0,0,0,250647,,S,Middle Class,"Greenberg, Mr. Samuel",13.0,0
+male,19.0,0,0,348124,F G73,S,Lower Class,"Soholt, Mr. Peter Andreas Lauritz Andersen",7.65,0
+female,38.0,0,0,PC 17757,C45,C,Upper Class,"Endres, Miss. Caroline Louise",227.525,1
+female,27.0,0,0,34218,E101,S,Middle Class,"Troutt, Miss. Edwina Celia ""Winnie""",10.5,1
+male,,0,0,36568,,Q,Lower Class,"McEvoy, Mr. Michael",15.5,0
+male,33.0,0,0,347062,,S,Lower Class,"Johnson, Mr. Malkolm Joackim",7.775,0
+female,6.0,0,1,248727,,S,Middle Class,"Harper, Miss. Annie Jessie ""Nina""",33.0,1
+male,17.0,1,0,350048,,S,Lower Class,"Jensen, Mr. Svend Lauritz",7.0542,0
+male,34.0,0,0,12233,,S,Middle Class,"Gillespie, Mr. William Henry",13.0,0
+male,50.0,0,0,250643,,S,Middle Class,"Hodges, Mr. Henry Price",13.0,0
+male,27.0,1,0,113806,E8,S,Upper Class,"Chambers, Mr. Norman Campbell",53.1,1
+male,20.0,0,0,315094,,S,Lower Class,"Oreskovic, Mr. Luka",8.6625,0
+female,30.0,3,0,31027,,S,Middle Class,"Renouf, Mrs. Peter Henry (Lillian Jefferys)",21.0,1
+female,,0,0,36866,,Q,Lower Class,"Mannion, Miss. Margareth",7.7375,1
+male,25.0,1,0,236853,,S,Middle Class,"Bryhl, Mr. Kurt Arnold Gottfrid",26.0,0
+female,25.0,1,0,STON/O2. 3101271,,S,Lower Class,"Ilmakangas, Miss. Pieta Sofia",7.925,0
+female,29.0,0,0,24160,B5,S,Upper Class,"Allen, Miss. Elisabeth Walton",211.3375,1
+male,11.0,0,0,2699,,C,Lower Class,"Hassan, Mr. Houssein G N",18.7875,0
+male,,0,0,239855,,S,Middle Class,"Knight, Mr. Robert J",0.0,0
+male,23.0,0,0,28425,,S,Middle Class,"Berriman, Mr. William John",13.0,0
+male,23.0,0,0,233639,,S,Middle Class,"Troupiansky, Mr. Moses Aaron",13.0,0
+male,28.5,0,0,54636,,S,Lower Class,"Williams, Mr. Leslie",16.1,0
+female,48.0,1,3,W./C. 6608,,S,Lower Class,"Ford, Mrs. Edward (Margaret Ann Watson)",34.375,0
+male,35.0,0,0,PC 17755,B101,C,Upper Class,"Lesurer, Mr. Gustave J",512.3292,1
+male,,0,0,349201,,S,Lower Class,"Ivanoff, Mr. Kanio",7.8958,0
+male,,0,0,349218,,S,Lower Class,"Nankoff, Mr. Minko",7.8958,0
+male,,0,0,16988,D45,S,Upper Class,"Hawksford, Mr. Walter James",30.0,1
+male,36.0,1,0,19877,C46,S,Upper Class,"Cavendish, Mr. Tyrell William",78.85,0
+female,21.0,2,2,PC 17608,B57 B59 B63 B66,C,Upper Class,"Ryerson, Miss. Susan Parker ""Suzette""",262.375,1
+male,24.0,1,0,376566,,S,Lower Class,"McNamee, Mr. Neal",16.1,0
+male,31.0,0,0,STON/O 2. 3101288,,S,Lower Class,"Stranden, Mr. Juho",7.925,1
+male,70.0,1,1,WE/P 5735,B22,S,Upper Class,"Crosby, Capt. Edward Gifford",71.0,0
+male,16.0,1,1,C.A. 2673,,S,Lower Class,"Abbott, Mr. Rossmore Edward",20.25,0
+female,30.0,0,0,250648,,S,Middle Class,"Sinkkonen, Miss. Anna",13.0,1
+male,19.0,1,0,113773,D30,S,Upper Class,"Marvin, Mr. Daniel Warner",53.1,0
+male,31.0,0,0,335097,,Q,Lower Class,"Connaghton, Mr. Michael",7.75,0
+female,4.0,1,1,29103,,S,Middle Class,"Wells, Miss. Joan",23.0,1
+male,6.0,0,1,392096,E121,S,Lower Class,"Moor, Master. Meier",12.475,1
+male,33.0,0,0,345780,,S,Lower Class,"Vande Velde, Mr. Johannes Joseph",9.5,0
+male,23.0,0,0,349204,,S,Lower Class,"Jonkoff, Mr. Lalio",7.8958,0
+female,48.0,1,2,220845,,S,Middle Class,"Herman, Mrs. Samuel (Jane Laver)",65.0,1
+male,0.67,1,1,250649,,S,Middle Class,"Hamalainen, Master. Viljo",14.5,1
+male,28.0,0,0,350042,,S,Lower Class,"Carlsson, Mr. August Sigfrid",7.7958,0
+male,18.0,0,0,29108,,S,Middle Class,"Bailey, Mr. Percy Andrew",11.5,0
+male,34.0,0,0,363294,,S,Lower Class,"Theobald, Mr. Thomas Leonard",8.05,0
+female,33.0,0,0,110152,B77,S,Upper Class,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",86.5,1
+male,,0,0,358585,,S,Lower Class,"Garfirth, Mr. John",14.5,0
+male,41.0,0,0,SOTON/O2 3101272,,S,Lower Class,"Nirva, Mr. Iisakki Antino Aijo",7.125,0
+male,20.0,0,0,2663,,C,Lower Class,"Barah, Mr. Hanna Assi",7.2292,1
+female,36.0,1,2,113760,B96 B98,S,Upper Class,"Carter, Mrs. William Ernest (Lucile Polk)",120.0,1
+male,16.0,0,0,347074,,S,Lower Class,"Eklund, Mr. Hans Linus",7.775,0
+female,51.0,1,0,13502,D11,S,Upper Class,"Hogeboom, Mrs. John C (Anna Andrews)",77.9583,1
+male,,0,0,112379,,C,Upper Class,"Brewe, Dr. Arthur Jackson",39.6,0
+female,30.5,0,0,364850,,Q,Lower Class,"Mangan, Miss. Mary",7.75,0
+male,,1,0,371110,,Q,Lower Class,"Moran, Mr. Daniel J",24.15,0
+male,32.0,0,0,8471,,S,Lower Class,"Gronnestad, Mr. Daniel Danielsen",8.3625,0
+male,24.0,0,0,345781,,S,Lower Class,"Lievens, Mr. Rene Aime",9.5,0
+male,48.0,0,0,350047,,S,Lower Class,"Jensen, Mr. Niels Peder",7.8542,0
+female,57.0,0,0,S.O./P.P. 3,E77,S,Middle Class,"Mack, Mrs. (Mary)",10.5,0
+male,,0,0,2674,,C,Lower Class,"Elias, Mr. Dibo",7.225,0
+female,54.0,1,3,29105,,S,Middle Class,"Hocking, Mrs. Elizabeth (Eliza Needs)",23.0,1
+male,18.0,0,0,347078,,S,Lower Class,"Myhrman, Mr. Pehr Fabian Oliver Malkolm",7.75,0
+male,,0,0,383121,F38,Q,Lower Class,"Tobin, Mr. Roger",7.75,0
+female,5.0,0,0,364516,,S,Lower Class,"Emanuel, Miss. Virginia Ethel",12.475,1
+male,,0,0,36865,,Q,Lower Class,"Kilgannon, Mr. Thomas J",7.7375,0
+female,43.0,0,1,24160,B3,S,Upper Class,"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",211.3375,1
+female,13.0,0,0,2687,,C,Lower Class,"Ayoub, Miss. Banoura",7.2292,1
+female,17.0,1,0,17474,B20,S,Upper Class,"Dick, Mrs. Albert Adrian (Vera Gillespie)",57.0,1
+male,29.0,0,0,113501,D6,S,Upper Class,"Long, Mr. Milton Clyde",30.0,0
+male,,1,2,W./C. 6607,,S,Lower Class,"Johnston, Mr. Andrew G",23.45,0
+male,25.0,0,0,SOTON/O.Q. 3101312,,S,Lower Class,"Ali, Mr. William",7.05,0
+male,25.0,0,0,374887,,S,Lower Class,"Harmer, Mr. Abraham (David Lishin)",7.25,0
+female,18.0,0,0,3101265,,S,Lower Class,"Sjoblom, Miss. Anna Sofia",7.4958,1
+male,8.0,4,1,382652,,Q,Lower Class,"Rice, Master. George Hugh",29.125,0
+male,1.0,1,2,C.A. 2315,,S,Lower Class,"Dean, Master. Bertram Vere",20.575,1
+male,46.0,0,0,PC 17593,B82 B84,C,Upper Class,"Guggenheim, Mr. Benjamin",79.2,0
+male,,0,0,12460,,Q,Lower Class,"Keane, Mr. Andrew ""Andy""",7.75,0
+male,16.0,0,0,239865,,S,Middle Class,"Gaskell, Mr. Alfred",26.0,0
+female,,8,2,CA. 2343,,S,Lower Class,"Sage, Miss. Stella Anna",69.55,0
+male,,0,0,PC 17600,,C,Upper Class,"Hoyt, Mr. William Fisher",30.6958,0
+male,25.0,0,0,349203,,S,Lower Class,"Dantcheff, Mr. Ristiu",7.8958,0
+male,39.0,0,0,28213,,S,Middle Class,"Otter, Mr. Richard",13.0,0
+female,49.0,0,0,17465,D17,S,Upper Class,"Leader, Dr. Alice (Farnham)",25.9292,1
+female,31.0,0,0,349244,,S,Lower Class,"Osman, Mrs. Mara",8.6833,1
+male,30.0,0,0,2685,,C,Lower Class,"Ibrahim Shawah, Mr. Yousseff",7.2292,0
+female,30.0,1,1,345773,,S,Lower Class,"Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)",24.15,0
+male,34.0,0,0,250647,,S,Middle Class,"Ponesell, Mr. Martin",13.0,0
+female,31.0,1,1,C.A. 31921,,S,Middle Class,"Collyer, Mrs. Harvey (Charlotte Annie Tate)",26.25,1
+male,11.0,1,2,113760,B96 B98,S,Upper Class,"Carter, Master. William Thornton II",120.0,1
+male,0.42,0,1,2625,,C,Lower Class,"Thomas, Master. Assad Alexander",8.5167,1
+male,27.0,0,0,347089,,S,Lower Class,"Hedman, Mr. Oskar Arvid",6.975,1
+male,31.0,0,0,347063,,S,Lower Class,"Johansson, Mr. Karl Johan",7.775,0
+male,39.0,0,0,112050,A36,S,Upper Class,"Andrews, Mr. Thomas Jr",0.0,0
+female,18.0,0,0,347087,,S,Lower Class,"Pettersson, Miss. Ellen Natalia",7.775,0
+male,39.0,0,0,248723,,S,Middle Class,"Meyer, Mr. August",13.0,0
+female,33.0,1,0,113806,E8,S,Upper Class,"Chambers, Mrs. Norman Campbell (Bertha Griggs)",53.1,1
+male,26.0,0,0,3474,,S,Lower Class,"Alexander, Mr. William",7.8875,0
+male,39.0,0,0,A/4 48871,,S,Lower Class,"Lester, Mr. James",24.15,0
+male,35.0,0,0,28206,,S,Middle Class,"Slemen, Mr. Richard James",10.5,0
+female,6.0,4,2,347082,,S,Lower Class,"Andersson, Miss. Ebba Iris Alfrida",31.275,0
+male,30.5,0,0,364499,,S,Lower Class,"Tomlin, Mr. Ernest Portage",8.05,0
+male,,0,0,112058,B102,S,Upper Class,"Fry, Mr. Richard",0.0,0
+female,23.0,0,0,STON/O2. 3101290,,S,Lower Class,"Heininen, Miss. Wendla Maria",7.925,0
+male,31.0,1,1,S.C./PARIS 2079,,C,Middle Class,"Mallet, Mr. Albert",37.0042,0
+male,43.0,0,0,C 7075,,S,Lower Class,"Holm, Mr. John Fredrik Alexander",6.45,0
+male,10.0,3,2,347088,,S,Lower Class,"Skoog, Master. Karl Thorsten",27.9,0
+female,52.0,1,1,12749,B69,S,Upper Class,"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",93.5,1
+male,27.0,0,0,315098,,S,Lower Class,"Lulic, Mr. Nikola",8.6625,1
+male,38.0,0,0,19972,,S,Upper Class,"Reuchlin, Jonkheer. John George",0.0,0
+female,27.0,0,1,392096,E121,S,Lower Class,"Moor, Mrs. (Beila)",12.475,1
+male,2.0,4,1,3101295,,S,Lower Class,"Panula, Master. Urho Abraham",39.6875,0
+male,,0,0,368323,,Q,Lower Class,"Flynn, Mr. John",6.95,0
+male,,0,0,1601,,S,Lower Class,"Lam, Mr. Len",56.4958,0
+male,1.0,0,2,S.C./PARIS 2079,,C,Middle Class,"Mallet, Master. Andre",37.0042,1
+male,,0,0,367228,,Q,Lower Class,"McCormack, Mr. Thomas Joseph",7.75,1
+female,62.0,0,0,113572,B28,,Upper Class,"Stone, Mrs. George Nelson (Martha Evelyn)",80.0,1
+female,15.0,1,0,2659,,C,Lower Class,"Yasbeck, Mrs. Antoni (Selini Alexander)",14.4542,1
+male,0.83,1,1,29106,,S,Middle Class,"Richards, Master. George Sibley",18.75,1
+male,,0,0,2671,,C,Lower Class,"Saad, Mr. Amin",7.2292,0
+male,23.0,0,0,347468,,S,Lower Class,"Augustsson, Mr. Albert",7.8542,0
+male,18.0,0,0,2223,,S,Lower Class,"Allum, Mr. Owen George",8.3,0
+female,39.0,1,1,PC 17756,E49,C,Upper Class,"Compton, Miss. Sara Rebecca",83.1583,1
+male,21.0,0,0,315097,,S,Lower Class,"Pasic, Mr. Jakob",8.6625,0
+male,,0,0,392092,,S,Lower Class,"Sirota, Mr. Maurice",8.05,0
+male,32.0,0,0,1601,,S,Lower Class,"Chip, Mr. Chang",56.4958,1
+male,,0,0,11774,C47,C,Upper Class,"Marechal, Mr. Pierre",29.7,1
+male,20.0,0,0,SOTON/O2 3101287,,S,Lower Class,"Alhomaki, Mr. Ilmari Rudolf",7.925,0
+male,16.0,0,0,S.O./P.P. 3,,S,Middle Class,"Mudd, Mr. Thomas Charles",10.5,0
+female,30.0,0,0,113798,,C,Upper Class,"Serepeca, Miss. Augusta",31.0,1
+male,34.5,0,0,2683,,C,Lower Class,"Lemberopolous, Mr. Peter L",6.4375,0
+male,17.0,0,0,315090,,S,Lower Class,"Culumovic, Mr. Jeso",8.6625,0
+male,42.0,0,0,C.A. 5547,,S,Lower Class,"Abbing, Mr. Anthony",7.55,0
+male,,8,2,CA. 2343,,S,Lower Class,"Sage, Mr. Douglas Bullen",69.55,0
+male,35.0,0,0,349213,,C,Lower Class,"Markoff, Mr. Marin",7.8958,0
+male,28.0,0,1,248727,,S,Middle Class,"Harper, Rev. John",33.0,0
+female,,1,0,17453,C92,C,Upper Class,"Goldenberg, Mrs. Samuel L (Edwiga Grabowska)",89.1042,1
+male,4.0,4,2,347082,,S,Lower Class,"Andersson, Master. Sigvard Harald Elias",31.275,0
+male,74.0,0,0,347060,,S,Lower Class,"Svensson, Mr. Johan",7.775,0
+female,9.0,1,1,2678,,C,Lower Class,"Boulos, Miss. Nourelain",15.2458,0
+female,16.0,0,1,PC 17592,D28,S,Upper Class,"Lines, Miss. Mary Conover",39.4,1
+female,44.0,1,0,244252,,S,Middle Class,"Carter, Mrs. Ernest Courtenay (Lilian Hughes)",26.0,0
+female,18.0,0,1,392091,,S,Lower Class,"Aks, Mrs. Sam (Leah Rosen)",9.35,1
+female,45.0,1,1,36928,,S,Upper Class,"Wick, Mrs. George Dennick (Mary Hitchcock)",164.8667,1
+male,51.0,0,0,113055,E17,S,Upper Class,"Daly, Mr. Peter Denis ",26.55,1
+female,24.0,0,3,2666,,C,Lower Class,"Baclini, Mrs. Solomon (Latifa Qurban)",19.2583,1
+male,,0,0,2629,,C,Lower Class,"Razi, Mr. Raihed",7.2292,0
+male,41.0,2,0,350026,,S,Lower Class,"Hansen, Mr. Claus Peter",14.1083,0
+male,21.0,1,0,28134,,S,Middle Class,"Giles, Mr. Frederick Edward",11.5,0
+female,48.0,0,0,17466,D17,S,Upper Class,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",25.9292,1
+female,,8,2,CA. 2343,,S,Lower Class,"Sage, Miss. Dorothy Edith ""Dolly""",69.55,0
+male,24.0,0,0,233866,,S,Middle Class,"Gill, Mr. John William",13.0,0
+female,42.0,0,0,236852,,S,Middle Class,"Bystrom, Mrs. (Karolina)",13.0,1
+female,27.0,1,0,SC/PARIS 2149,,C,Middle Class,"Duran y More, Miss. Asuncion",13.8583,1
+male,31.0,0,0,PC 17590,A24,S,Upper Class,"Roebling, Mr. Washington Augustus II",50.4958,0
+male,,0,0,345777,,S,Lower Class,"van Melkebeke, Mr. Philemon",9.5,0
+male,4.0,1,1,347742,,S,Lower Class,"Johnson, Master. Harold Theodor",11.1333,1
+male,26.0,0,0,349248,,S,Lower Class,"Balkic, Mr. Cerin",7.8958,0
+female,47.0,1,1,11751,D35,S,Upper Class,"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",52.5542,1
+male,33.0,0,0,695,B51 B53 B55,S,Upper Class,"Carlsson, Mr. Frans Olof",5.0,0
+male,47.0,0,0,345765,,S,Lower Class,"Vander Cruyssen, Mr. Victor",9.0,0
+female,28.0,1,0,P/PP 3381,,C,Middle Class,"Abelson, Mrs. Samuel (Hannah Wizosky)",24.0,1
+female,15.0,0,0,2667,,C,Lower Class,"Najib, Miss. Adele Kiamie ""Jane""",7.225,1
+male,20.0,0,0,7534,,S,Lower Class,"Gustafsson, Mr. Alfred Ossian",9.8458,0
+male,19.0,0,0,349212,,S,Lower Class,"Petroff, Mr. Nedelio",7.8958,0
+male,,0,0,349217,,S,Lower Class,"Laleff, Mr. Kristo",7.8958,0
+female,56.0,0,1,11767,C50,C,Upper Class,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",83.1583,1
+female,25.0,0,1,230433,,S,Middle Class,"Shelley, Mrs. William (Imanita Parrish Hall)",26.0,1
+male,33.0,0,0,349257,,S,Lower Class,"Markun, Mr. Johann",7.8958,0
+female,22.0,0,0,7552,,S,Lower Class,"Dahlberg, Miss. Gerda Ulrika",10.5167,0
+male,28.0,0,0,C.A./SOTON 34068,,S,Middle Class,"Banfield, Mr. Frederick James",10.5,0
+male,25.0,0,0,SOTON/OQ 392076,,S,Lower Class,"Sutehall, Mr. Henry Jr",7.05,0
+female,39.0,0,5,382652,,Q,Lower Class,"Rice, Mrs. William (Margaret Norton)",29.125,0
+male,27.0,0,0,211536,,S,Middle Class,"Montvila, Rev. Juozas",13.0,0
+female,19.0,0,0,112053,B42,S,Upper Class,"Graham, Miss. Margaret Edith",30.0,1
+female,,1,2,W./C. 6607,,S,Lower Class,"Johnston, Miss. Catherine Helen ""Carrie""",23.45,0
+male,26.0,0,0,111369,C148,C,Upper Class,"Behr, Mr. Karl Howell",30.0,1
+male,32.0,0,0,370376,,Q,Lower Class,"Dooley, Mr. Patrick",7.75,0
